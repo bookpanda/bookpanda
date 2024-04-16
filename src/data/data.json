@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 322971868,
+    "status": "COMPLETED",
+    "progress": 10,
+    "media": {
+      "title": {
+        "english": "KONOSUBA -God's blessing on this wonderful world! 2",
+        "userPreferred": "Kono Subarashii Sekai ni Shukufuku wo! 2"
+      },
+      "coverImage": {
+        "color": "#f1a150",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21699-Fkbnkl9ZC6fW.png"
+      },
+      "episodes": 10,
+      "siteUrl": "https://anilist.co/anime/21699"
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 3,
+      "day": 11,
+      "date": "2023-03-11T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2023,
+      "month": 3,
+      "day": 15,
+      "date": "2023-03-15T00:00:00.000Z"
+    },
+    "score": 8.4
+  },
+  {
+    "id": 322971870,
+    "status": "COMPLETED",
+    "progress": 1,
+    "media": {
+      "title": {
+        "english": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
+        "userPreferred": "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu"
+      },
+      "coverImage": {
+        "color": "#5dbbe4",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102976-WcNjDFdQbdCv.png"
+      },
+      "episodes": 1,
+      "siteUrl": "https://anilist.co/anime/102976"
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 3,
+      "day": 18,
+      "date": "2023-03-18T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2023,
+      "month": 3,
+      "day": 18,
+      "date": "2023-03-18T00:00:00.000Z"
+    },
+    "score": 8.3
+  },
+  {
+    "id": 330470324,
+    "status": "COMPLETED",
+    "progress": 1,
+    "media": {
+      "title": {
+        "english": "KONOSUBA -God's blessing on this wonderful world! 2: God's Blessings on These Wonderful Works of Art!",
+        "userPreferred": "Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!"
+      },
+      "coverImage": {
+        "color": "#f1a150",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b97996-px2KGexuEZpg.jpg"
+      },
+      "episodes": 1,
+      "siteUrl": "https://anilist.co/anime/97996"
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 3,
+      "day": 19,
+      "date": "2023-03-19T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2023,
+      "month": 3,
+      "day": 19,
+      "date": "2023-03-19T00:00:00.000Z"
+    },
+    "score": 7.4
+  },
+  {
+    "id": 330470692,
+    "status": "COMPLETED",
+    "progress": 1,
+    "media": {
+      "title": {
+        "english": "KONOSUBA -God's blessing on this wonderful world!: God's Blessings On This Wonderful Choker!",
+        "userPreferred": "Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!"
+      },
+      "coverImage": {
+        "color": "#e4bb28",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21574-CTRsdAGe4mDp.png"
+      },
+      "episodes": 1,
+      "siteUrl": "https://anilist.co/anime/21574"
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 3,
+      "day": 19,
+      "date": "2023-03-19T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2023,
+      "month": 3,
+      "day": 19,
+      "date": "2023-03-19T00:00:00.000Z"
+    },
+    "score": 7.5
+  },
+  {
+    "id": 312323684,
+    "status": "COMPLETED",
+    "progress": 24,
+    "media": {
+      "title": {
+        "english": "Steins;Gate",
+        "userPreferred": "Steins;Gate"
+      },
+      "coverImage": {
+        "color": "#e4a15d",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9253-7pdcVzQSkKxT.jpg"
+      },
+      "episodes": 24,
+      "siteUrl": "https://anilist.co/anime/9253"
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 3,
+      "day": 19,
+      "date": "2023-03-19T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2023,
+      "month": 3,
+      "day": 27,
+      "date": "2023-03-27T00:00:00.000Z"
+    },
+    "score": 9.2
+  },
+  {
+    "id": 323197498,
+    "status": "COMPLETED",
+    "progress": 12,
+    "media": {
+      "title": {
+        "english": "The Angel Next Door Spoils Me Rotten",
+        "userPreferred": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken"
+      },
+      "coverImage": {
+        "color": "#c9f1f1",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143338-zhyDVYgEzsm5.png"
+      },
+      "episodes": 12,
+      "siteUrl": "https://anilist.co/anime/143338"
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 2,
+      "day": 25,
+      "date": "2023-02-25T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2023,
+      "month": 4,
+      "day": 5,
+      "date": "2023-04-05T00:00:00.000Z"
+    },
+    "score": 7.2
+  },
+  {
+    "id": 312323727,
+    "status": "COMPLETED",
+    "progress": 23,
+    "media": {
+      "title": {
+        "english": null,
+        "userPreferred": "Steins;Gate 0"
+      },
+      "coverImage": {
+        "color": "#6b431a",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21127-7ARWZkDXKiiD.jpg"
+      },
+      "episodes": 23,
+      "siteUrl": "https://anilist.co/anime/21127"
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 3,
+      "day": 28,
+      "date": "2023-03-28T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2023,
+      "month": 4,
+      "day": 6,
+      "date": "2023-04-06T00:00:00.000Z"
+    },
+    "score": 8.7
+  },
+  {
+    "id": 331412592,
+    "status": "COMPLETED",
+    "progress": 1,
+    "media": {
+      "title": {
+        "english": "Steins;Gate 0: Valentine's of Crystal Polymorphism -Bittersweet Intermedio-",
+        "userPreferred": "Steins;Gate 0: Kesshou Takei no Valentine - Bittersweet Day"
+      },
+      "coverImage": {
+        "color": null,
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104174-aoNLSSN6bT4L.png"
+      },
+      "episodes": 1,
+      "siteUrl": "https://anilist.co/anime/104174"
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 4,
+      "day": 6,
+      "date": "2023-04-06T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2023,
+      "month": 4,
+      "day": 6,
+      "date": "2023-04-06T00:00:00.000Z"
+    },
+    "score": 7.2
+  },
+  {
+    "id": 312107416,
+    "status": "COMPLETED",
+    "progress": 4,
+    "media": {
+      "title": {
+        "english": "Kaguya-sama: Love is War -The First Kiss That Never Ends-",
+        "userPreferred": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai"
+      },
+      "coverImage": {
+        "color": "#e45d78",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151384-gv0q8wOE6D58.jpg"
+      },
+      "episodes": 4,
+      "siteUrl": "https://anilist.co/anime/151384"
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 4,
+      "day": 6,
+      "date": "2023-04-06T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2023,
+      "month": 4,
+      "day": 7,
+      "date": "2023-04-07T00:00:00.000Z"
+    },
+    "score": 8.6
+  },
+  {
+    "id": 327657728,
+    "status": "COMPLETED",
+    "progress": 24,
+    "media": {
+      "title": {
+        "english": "Vinland Saga",
+        "userPreferred": "VINLAND SAGA"
+      },
+      "coverImage": {
+        "color": "#e45d50",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101348-msJS8z91mG0P.jpg"
+      },
+      "episodes": 24,
+      "siteUrl": "https://anilist.co/anime/101348"
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 4,
+      "day": 8,
+      "date": "2023-04-08T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2023,
+      "month": 4,
+      "day": 17,
+      "date": "2023-04-17T00:00:00.000Z"
+    },
+    "score": 9.4
+  },
+  {
+    "id": 334571172,
+    "status": "COMPLETED",
+    "progress": 1,
+    "media": {
+      "title": {
+        "english": "Suzume",
+        "userPreferred": "Suzume no Tojimari"
+      },
+      "coverImage": {
+        "color": "#43bbe4",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142770-dDaDIRnsv5jN.jpg"
+      },
+      "episodes": 1,
+      "siteUrl": "https://anilist.co/anime/142770"
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 4,
+      "day": 19,
+      "date": "2023-04-19T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2023,
+      "month": 4,
+      "day": 19,
+      "date": "2023-04-19T00:00:00.000Z"
+    },
+    "score": 8.2
+  },
+  {
+    "id": 312106849,
+    "status": "COMPLETED",
+    "progress": 12,
+    "media": {
+      "title": {
+        "english": "Laid-Back Camp",
+        "userPreferred": "Yuru Camp△"
+      },
+      "coverImage": {
+        "color": "#f1ae5d",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98444-tgu5kWwnBigW.jpg"
+      },
+      "episodes": 12,
+      "siteUrl": "https://anilist.co/anime/98444"
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 4,
+      "day": 17,
+      "date": "2023-04-17T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2023,
+      "month": 4,
+      "day": 23,
+      "date": "2023-04-23T00:00:00.000Z"
+    },
+    "score": 8.1
+  },
+  {
+    "id": 333954973,
+    "status": "COMPLETED",
+    "progress": 13,
+    "media": {
+      "title": {
+        "english": "LAID-BACK CAMP SEASON2",
+        "userPreferred": "Yuru Camp△ SEASON 2"
+      },
+      "coverImage": {
+        "color": "#5da1e4",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104459-pywEKGQON613.jpg"
+      },
+      "episodes": 13,
+      "siteUrl": "https://anilist.co/anime/104459"
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 4,
+      "day": 24,
+      "date": "2023-04-24T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2023,
+      "month": 4,
+      "day": 30,
+      "date": "2023-04-30T00:00:00.000Z"
+    },
+    "score": 8.4
+  },
+  {
+    "id": 333957814,
+    "status": "COMPLETED",
+    "progress": 1,
+    "media": {
+      "title": {
+        "english": "Laid-Back Camp The Movie",
+        "userPreferred": "Yuru Camp△ Movie"
+      },
+      "coverImage": {
+        "color": "#e49350",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104460-EwUV9ZJMCtnR.jpg"
+      },
+      "episodes": 1,
+      "siteUrl": "https://anilist.co/anime/104460"
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 5,
+      "day": 1,
+      "date": "2023-05-01T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2023,
+      "month": 5,
+      "day": 2,
+      "date": "2023-05-02T00:00:00.000Z"
+    },
+    "score": 8.3
+  },
+  {
+    "id": 312106748,
+    "status": "COMPLETED",
+    "progress": 11,
+    "media": {
+      "title": {
+        "english": "86 EIGHTY-SIX",
+        "userPreferred": "86: Eighty Six"
+      },
+      "coverImage": {
+        "color": "#78aee4",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116589-WSpNedJdAH3L.jpg"
+      },
+      "episodes": 11,
+      "siteUrl": "https://anilist.co/anime/116589"
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 5,
+      "day": 3,
+      "date": "2023-05-03T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2023,
+      "month": 5,
+      "day": 10,
+      "date": "2023-05-10T00:00:00.000Z"
+    },
+    "score": 8.3
+  },
+  {
+    "id": 312106757,
+    "status": "COMPLETED",
+    "progress": 12,
+    "media": {
+      "title": {
+        "english": "86 EIGHTY-SIX Part 2",
+        "userPreferred": "86: Eighty Six Part 2"
+      },
+      "coverImage": {
+        "color": "#e4501a",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131586-k0X2kVpUOkqX.jpg"
+      },
+      "episodes": 12,
+      "siteUrl": "https://anilist.co/anime/131586"
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 5,
+      "day": 10,
+      "date": "2023-05-10T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2023,
+      "month": 5,
+      "day": 17,
+      "date": "2023-05-17T00:00:00.000Z"
+    },
+    "score": 8.6
+  },
+  {
+    "id": 324619049,
+    "status": "COMPLETED",
+    "progress": 26,
+    "media": {
+      "title": {
+        "english": "Demon Slayer: Kimetsu no Yaiba",
+        "userPreferred": "Kimetsu no Yaiba"
+      },
+      "coverImage": {
+        "color": "#e4bba1",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101922-WBsBl0ClmgYL.jpg"
+      },
+      "episodes": 26,
+      "siteUrl": "https://anilist.co/anime/101922"
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 5,
+      "day": 16,
+      "date": "2023-05-16T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2023,
+      "month": 6,
+      "day": 3,
+      "date": "2023-06-03T00:00:00.000Z"
+    },
+    "score": 8.3
+  },
+  {
+    "id": 324619058,
+    "status": "COMPLETED",
+    "progress": 7,
+    "media": {
+      "title": {
+        "english": "Demon Slayer: Kimetsu no Yaiba Mugen Train Arc",
+        "userPreferred": "Kimetsu no Yaiba: Mugen Ressha-hen (TV)"
+      },
+      "coverImage": {
+        "color": "#f1a15d",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129874-g6ZKXB94Hui1.jpg"
+      },
+      "episodes": 7,
+      "siteUrl": "https://anilist.co/anime/129874"
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 6,
+      "day": 3,
+      "date": "2023-06-03T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2023,
+      "month": 6,
+      "day": 6,
+      "date": "2023-06-06T00:00:00.000Z"
+    },
+    "score": 8.4
+  },
+  {
+    "id": 324619071,
+    "status": "COMPLETED",
+    "progress": 11,
+    "media": {
+      "title": {
+        "english": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
+        "userPreferred": "Kimetsu no Yaiba: Yuukaku-hen"
+      },
+      "coverImage": {
+        "color": "#f19350",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142329-kET1PIXJv2eW.jpg"
+      },
+      "episodes": 11,
+      "siteUrl": "https://anilist.co/anime/142329"
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 6,
+      "day": 7,
+      "date": "2023-06-07T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2023,
+      "month": 6,
+      "day": 14,
+      "date": "2023-06-14T00:00:00.000Z"
+    },
+    "score": 8.6
+  },
+  {
+    "id": 324619070,
+    "status": "COMPLETED",
+    "progress": 11,
+    "media": {
+      "title": {
+        "english": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
+        "userPreferred": "Kimetsu no Yaiba: Katanakaji no Sato-hen"
+      },
+      "coverImage": {
+        "color": "#1aaed6",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145139-rRimpHGWLhym.png"
+      },
+      "episodes": 11,
+      "siteUrl": "https://anilist.co/anime/145139"
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 6,
+      "day": 16,
+      "date": "2023-06-16T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2023,
+      "month": 6,
+      "day": 22,
+      "date": "2023-06-22T00:00:00.000Z"
+    },
+    "score": 8.3
+  },
+  {
+    "id": 327657729,
+    "status": "COMPLETED",
+    "progress": 24,
+    "media": {
+      "title": {
+        "english": "Vinland Saga Season 2",
+        "userPreferred": "VINLAND SAGA SEASON 2"
+      },
+      "coverImage": {
+        "color": "#f1ae43",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136430-YrQ8nBDW7gT0.jpg"
+      },
+      "episodes": 24,
+      "siteUrl": "https://anilist.co/anime/136430"
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 6,
+      "day": 21,
+      "date": "2023-06-21T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2023,
+      "month": 7,
+      "day": 11,
+      "date": "2023-07-11T00:00:00.000Z"
+    },
+    "score": 8.9
+  },
+  {
+    "id": 312106912,
+    "status": "COMPLETED",
+    "progress": 11,
+    "media": {
+      "title": {
+        "english": "Oshi No Ko",
+        "userPreferred": "[Oshi no Ko]"
+      },
+      "coverImage": {
+        "color": "#ff35c9",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150672-jguvEfP0vGfW.png"
+      },
+      "episodes": 11,
+      "siteUrl": "https://anilist.co/anime/150672"
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 7,
+      "day": 12,
+      "date": "2023-07-12T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2023,
+      "month": 7,
+      "day": 23,
+      "date": "2023-07-23T00:00:00.000Z"
+    },
+    "score": 8.7
+  },
+  {
+    "id": 322971878,
+    "status": "COMPLETED",
+    "progress": 12,
+    "media": {
+      "title": {
+        "english": "KONOSUBA -An Explosion on This Wonderful World!",
+        "userPreferred": "Kono Subarashii Sekai ni Bakuen wo!"
+      },
+      "coverImage": {
+        "color": "#e450f1",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150075-QIGcA7oVyO6l.jpg"
+      },
+      "episodes": 12,
+      "siteUrl": "https://anilist.co/anime/150075"
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 7,
+      "day": 24,
+      "date": "2023-07-24T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2023,
+      "month": 8,
+      "day": 4,
+      "date": "2023-08-04T00:00:00.000Z"
+    },
+    "score": 7.7
+  },
+  {
+    "id": 312107156,
+    "status": "COMPLETED",
+    "progress": 24,
+    "media": {
+      "title": {
+        "english": "JUJUTSU KAISEN",
+        "userPreferred": "Jujutsu Kaisen"
+      },
+      "coverImage": {
+        "color": "#e45d5d",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113415-bbBWj4pEFseh.jpg"
+      },
+      "episodes": 24,
+      "siteUrl": "https://anilist.co/anime/113415"
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 8,
+      "day": 6,
+      "date": "2023-08-06T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2023,
+      "month": 9,
+      "day": 13,
+      "date": "2023-09-13T00:00:00.000Z"
+    },
+    "score": 8.7
+  },
+  {
+    "id": 334730787,
+    "status": "COMPLETED",
+    "progress": 11,
+    "media": {
+      "title": {
+        "english": "Mushoku Tensei: Jobless Reincarnation",
+        "userPreferred": "Mushoku Tensei: Isekai Ittara Honki Dasu"
+      },
+      "coverImage": {
+        "color": "#f1f15d",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108465-B9S9zC68eS5j.jpg"
+      },
+      "episodes": 11,
+      "siteUrl": "https://anilist.co/anime/108465"
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 9,
+      "day": 12,
+      "date": "2023-09-12T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2023,
+      "month": 9,
+      "day": 20,
+      "date": "2023-09-20T00:00:00.000Z"
+    },
+    "score": 8.6
+  },
+  {
+    "id": 334730797,
+    "status": "COMPLETED",
+    "progress": 12,
+    "media": {
+      "title": {
+        "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+        "userPreferred": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2"
+      },
+      "coverImage": {
+        "color": "#d6bb1a",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127720-ADJgIrUVMdU9.jpg"
+      },
+      "episodes": 12,
+      "siteUrl": "https://anilist.co/anime/127720"
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 9,
+      "day": 21,
+      "date": "2023-09-21T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2023,
+      "month": 9,
+      "day": 27,
+      "date": "2023-09-27T00:00:00.000Z"
+    },
+    "score": 8.8
+  },
+  {
+    "id": 334730794,
+    "status": "COMPLETED",
+    "progress": 13,
+    "media": {
+      "title": {
+        "english": "Mushoku Tensei: Jobless Reincarnation Season 2",
+        "userPreferred": "Mushoku Tensei II: Isekai Ittara Honki Dasu"
+      },
+      "coverImage": {
+        "color": "#35aee4",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146065-IjirxRK26O03.png"
+      },
+      "episodes": 13,
+      "siteUrl": "https://anilist.co/anime/146065"
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 9,
+      "day": 27,
+      "date": "2023-09-27T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2023,
+      "month": 10,
+      "day": 7,
+      "date": "2023-10-07T00:00:00.000Z"
+    },
+    "score": 8.4
+  },
+  {
+    "id": 358811926,
+    "status": "COMPLETED",
+    "progress": 13,
+    "media": {
+      "title": {
+        "english": "Fate/Zero",
+        "userPreferred": "Fate/Zero"
+      },
+      "coverImage": {
+        "color": "#e4d65d",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10087-el5Bo1VMZwsU.png"
+      },
+      "episodes": 13,
+      "siteUrl": "https://anilist.co/anime/10087"
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 10,
+      "day": 7,
+      "date": "2023-10-07T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2023,
+      "month": 10,
+      "day": 18,
+      "date": "2023-10-18T00:00:00.000Z"
+    },
+    "score": 8
+  },
+  {
+    "id": 326439173,
+    "status": "COMPLETED",
+    "progress": 12,
+    "media": {
+      "title": {
+        "english": "Fate/Zero Season 2",
+        "userPreferred": "Fate/Zero 2nd Season"
+      },
+      "coverImage": {
+        "color": "#e4781a",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx11741-Twb6iJx77FFV.jpg"
+      },
+      "episodes": 12,
+      "siteUrl": "https://anilist.co/anime/11741"
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 10,
+      "day": 19,
+      "date": "2023-10-19T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2023,
+      "month": 10,
+      "day": 23,
+      "date": "2023-10-23T00:00:00.000Z"
+    },
+    "score": 8.5
+  },
+  {
+    "id": 325551723,
+    "status": "COMPLETED",
+    "progress": 1,
+    "media": {
+      "title": {
+        "english": "Attack on Titan Final Season THE FINAL CHAPTERS Special 2",
+        "userPreferred": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Kouhen"
+      },
+      "coverImage": {
+        "color": "#5daee4",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162314-ocaEhYmvznFO.jpg"
+      },
+      "episodes": 1,
+      "siteUrl": "https://anilist.co/anime/162314"
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 11,
+      "day": 5,
+      "date": "2023-11-05T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2023,
+      "month": 11,
+      "day": 5,
+      "date": "2023-11-05T00:00:00.000Z"
+    },
+    "score": 9.1
+  },
+  {
+    "id": 358811979,
+    "status": "COMPLETED",
+    "progress": 13,
+    "media": {
+      "title": {
+        "english": "Fate/stay night: Unlimited Blade Works",
+        "userPreferred": "Fate/stay night: Unlimited Blade Works"
+      },
+      "coverImage": {
+        "color": "#e4a135",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19603-ZIwcXJeIJV3H.jpg"
+      },
+      "episodes": 13,
+      "siteUrl": "https://anilist.co/anime/19603"
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 10,
+      "day": 24,
+      "date": "2023-10-24T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2023,
+      "month": 11,
+      "day": 10,
+      "date": "2023-11-10T00:00:00.000Z"
+    },
+    "score": 8.1
+  },
+  {
+    "id": 358811998,
+    "status": "COMPLETED",
+    "progress": 13,
+    "media": {
+      "title": {
+        "english": "Fate/stay night: Unlimited Blade Works 2nd Season",
+        "userPreferred": "Fate/stay night: Unlimited Blade Works 2nd Season"
+      },
+      "coverImage": {
+        "color": "#d66b1a",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20792-Q53sZsUAh5FF.jpg"
+      },
+      "episodes": 13,
+      "siteUrl": "https://anilist.co/anime/20792"
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 11,
+      "day": 11,
+      "date": "2023-11-11T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2023,
+      "month": 11,
+      "day": 23,
+      "date": "2023-11-23T00:00:00.000Z"
+    },
+    "score": 8.1
+  },
+  {
+    "id": 312106784,
+    "status": "COMPLETED",
+    "progress": 12,
+    "media": {
+      "title": {
+        "english": "DON'T TOY WITH ME, MISS NAGATORO",
+        "userPreferred": "Ijiranaide, Nagatoro-san"
+      },
+      "coverImage": {
+        "color": "#e4bb5d",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120697-72Sf22C9PTQn.jpg"
+      },
+      "episodes": 12,
+      "siteUrl": "https://anilist.co/anime/120697"
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 11,
+      "day": 23,
+      "date": "2023-11-23T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2023,
+      "month": 12,
+      "day": 5,
+      "date": "2023-12-05T00:00:00.000Z"
+    },
+    "score": 7.5
+  },
+  {
+    "id": 312106602,
+    "status": "COMPLETED",
+    "progress": 12,
+    "media": {
+      "title": {
+        "english": "DON'T TOY WITH ME, MISS NAGATORO 2nd Attack",
+        "userPreferred": "Ijiranaide, Nagatoro-san 2nd Attack"
+      },
+      "coverImage": {
+        "color": "#e49350",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140596-wBtzi7evAMlf.jpg"
+      },
+      "episodes": 12,
+      "siteUrl": "https://anilist.co/anime/140596"
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 12,
+      "day": 6,
+      "date": "2023-12-06T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2023,
+      "month": 12,
+      "day": 17,
+      "date": "2023-12-17T00:00:00.000Z"
+    },
+    "score": 7.8
+  },
+  {
+    "id": 312107163,
+    "status": "COMPLETED",
+    "progress": 1,
+    "media": {
+      "title": {
+        "english": "JUJUTSU KAISEN 0",
+        "userPreferred": "Jujutsu Kaisen 0"
+      },
+      "coverImage": {
+        "color": "#f1c95d",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131573-rpl82vDEDRm6.jpg"
+      },
+      "episodes": 1,
+      "siteUrl": "https://anilist.co/anime/131573"
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 12,
+      "day": 28,
+      "date": "2023-12-28T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2023,
+      "month": 12,
+      "day": 28,
+      "date": "2023-12-28T00:00:00.000Z"
+    },
+    "score": 8.5
+  },
+  {
+    "id": 312107172,
+    "status": "COMPLETED",
+    "progress": 23,
+    "media": {
+      "title": {
+        "english": "JUJUTSU KAISEN Season 2",
+        "userPreferred": "Jujutsu Kaisen 2nd Season"
+      },
+      "coverImage": {
+        "color": "#a178d6",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145064-FwX2pzE4mS8Q.jpg"
+      },
+      "episodes": 23,
+      "siteUrl": "https://anilist.co/anime/145064"
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 12,
+      "day": 18,
+      "date": "2023-12-18T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2023,
+      "month": 12,
+      "day": 29,
+      "date": "2023-12-29T00:00:00.000Z"
+    },
+    "score": 9.1
+  },
+  {
+    "id": 332513509,
+    "status": "COMPLETED",
+    "progress": 13,
+    "media": {
+      "title": {
+        "english": "Hell’s Paradise",
+        "userPreferred": "Jigokuraku"
+      },
+      "coverImage": {
+        "color": "#e4bb35",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128893-l0R0GFHplDKW.jpg"
+      },
+      "episodes": 13,
+      "siteUrl": "https://anilist.co/anime/128893"
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 12,
+      "day": 28,
+      "date": "2023-12-28T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2024,
+      "month": 1,
+      "day": 8,
+      "date": "2024-01-08T00:00:00.000Z"
+    },
+    "score": 8.3
+  },
+  {
+    "id": 370120453,
+    "status": "COMPLETED",
+    "progress": 12,
+    "media": {
+      "title": {
+        "english": "The Dangers in My Heart",
+        "userPreferred": "Boku no Kokoro no Yabai Yatsu"
+      },
+      "coverImage": {
+        "color": "#e4ae50",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153152-eX8hkP9VmnRF.jpg"
+      },
+      "episodes": 12,
+      "siteUrl": "https://anilist.co/anime/153152"
+    },
+    "startedAt": {
+      "year": 2024,
+      "month": 1,
+      "day": 10,
+      "date": "2024-01-10T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2024,
+      "month": 1,
+      "day": 20,
+      "date": "2024-01-20T00:00:00.000Z"
+    },
+    "score": 8.2
+  },
+  {
+    "id": 320053236,
+    "status": "COMPLETED",
+    "progress": 13,
+    "media": {
+      "title": {
+        "english": "Made in Abyss",
+        "userPreferred": "Made in Abyss"
+      },
+      "coverImage": {
+        "color": "#e4c9ae",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97986-tXLonOO0vhHb.jpg"
+      },
+      "episodes": 13,
+      "siteUrl": "https://anilist.co/anime/97986"
+    },
+    "startedAt": {
+      "year": 2024,
+      "month": 1,
+      "day": 25,
+      "date": "2024-01-25T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2024,
+      "month": 2,
+      "day": 5,
+      "date": "2024-02-05T00:00:00.000Z"
+    },
+    "score": 9.4
+  },
+  {
+    "id": 387711999,
+    "status": "COMPLETED",
+    "progress": 1,
+    "media": {
+      "title": {
+        "english": "Made in Abyss: Dawn of the Deep Soul",
+        "userPreferred": "Made in Abyss: Fukaki Tamashii no Reimei"
+      },
+      "coverImage": {
+        "color": "#e49343",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100643-fPH9OgEKKvcI.jpg"
+      },
+      "episodes": 1,
+      "siteUrl": "https://anilist.co/anime/100643"
+    },
+    "startedAt": {
+      "year": 2024,
+      "month": 2,
+      "day": 7,
+      "date": "2024-02-07T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2024,
+      "month": 2,
+      "day": 7,
+      "date": "2024-02-07T00:00:00.000Z"
+    },
+    "score": 9
+  },
+  {
+    "id": 357493809,
+    "status": "COMPLETED",
+    "progress": 12,
+    "media": {
+      "title": {
+        "english": "Made in Abyss: The Golden City of the Scorching Sun",
+        "userPreferred": "Made in Abyss: Retsujitsu no Ougonkyou"
+      },
+      "coverImage": {
+        "color": "#d6ae78",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114745-APZN90WhNMAD.jpg"
+      },
+      "episodes": 12,
+      "siteUrl": "https://anilist.co/anime/114745"
+    },
+    "startedAt": {
+      "year": 2024,
+      "month": 2,
+      "day": 8,
+      "date": "2024-02-08T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2024,
+      "month": 2,
+      "day": 16,
+      "date": "2024-02-16T00:00:00.000Z"
+    },
+    "score": 9.2
+  },
+  {
+    "id": 357493779,
+    "status": "COMPLETED",
+    "progress": 12,
+    "media": {
+      "title": {
+        "english": "The Promised Neverland",
+        "userPreferred": "Yakusoku no Neverland"
+      },
+      "coverImage": {
+        "color": "#e4ae50",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101759-G9I2ymYrFS8o.jpg"
+      },
+      "episodes": 12,
+      "siteUrl": "https://anilist.co/anime/101759"
+    },
+    "startedAt": {
+      "year": 2024,
+      "month": 2,
+      "day": 17,
+      "date": "2024-02-17T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2024,
+      "month": 2,
+      "day": 21,
+      "date": "2024-02-21T00:00:00.000Z"
+    },
+    "score": 9.2
+  },
+  {
+    "id": 392033634,
+    "status": "COMPLETED",
+    "progress": 11,
+    "media": {
+      "title": {
+        "english": "The Promised Neverland Season 2",
+        "userPreferred": "Yakusoku no Neverland 2"
+      },
+      "coverImage": {
+        "color": "#e4a143",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108725-ZKivuyr4Jtc9.jpg"
+      },
+      "episodes": 11,
+      "siteUrl": "https://anilist.co/anime/108725"
+    },
+    "startedAt": {
+      "year": 2024,
+      "month": 2,
+      "day": 20,
+      "date": "2024-02-20T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2024,
+      "month": 2,
+      "day": 27,
+      "date": "2024-02-27T00:00:00.000Z"
+    },
+    "score": 6.8
+  },
+  {
+    "id": 312107206,
+    "status": "COMPLETED",
+    "progress": 12,
+    "media": {
+      "title": {
+        "english": "ERASED",
+        "userPreferred": "Boku dake ga Inai Machi"
+      },
+      "coverImage": {
+        "color": "#f1a150",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21234-bCvWk2f58LCv.jpg"
+      },
+      "episodes": 12,
+      "siteUrl": "https://anilist.co/anime/21234"
+    },
+    "startedAt": {
+      "year": 2024,
+      "month": 3,
+      "day": 1,
+      "date": "2024-03-01T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2024,
+      "month": 3,
+      "day": 3,
+      "date": "2024-03-03T00:00:00.000Z"
+    },
+    "score": 8.4
+  },
+  {
+    "id": 393157082,
+    "status": "COMPLETED",
+    "progress": 13,
+    "media": {
+      "title": {
+        "english": "Violet Evergarden",
+        "userPreferred": "Violet Evergarden"
+      },
+      "coverImage": {
+        "color": "#3586e4",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21827-10F6m50H4GJK.png"
+      },
+      "episodes": 13,
+      "siteUrl": "https://anilist.co/anime/21827"
+    },
+    "startedAt": {
+      "year": 2024,
+      "month": 3,
+      "day": 4,
+      "date": "2024-03-04T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2024,
+      "month": 3,
+      "day": 9,
+      "date": "2024-03-09T00:00:00.000Z"
+    },
+    "score": 8.8
+  },
+  {
+    "id": 394026908,
+    "status": "COMPLETED",
+    "progress": 1,
+    "media": {
+      "title": {
+        "english": "Violet Evergarden: Eternity and the Auto Memory Doll",
+        "userPreferred": "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou"
+      },
+      "coverImage": {
+        "color": "#e4e4a1",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109190-e8mv1qdmpjLW.jpg"
+      },
+      "episodes": 1,
+      "siteUrl": "https://anilist.co/anime/109190"
+    },
+    "startedAt": {
+      "year": 2024,
+      "month": 3,
+      "day": 10,
+      "date": "2024-03-10T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2024,
+      "month": 3,
+      "day": 10,
+      "date": "2024-03-10T00:00:00.000Z"
+    },
+    "score": 8.3
+  },
+  {
+    "id": 394371609,
+    "status": "COMPLETED",
+    "progress": 1,
+    "media": {
+      "title": {
+        "english": "Violet Evergarden: Special",
+        "userPreferred": "Violet Evergarden: Kitto \"Ai\" wo Shiru Hi ga Kuru no Darou"
+      },
+      "coverImage": {
+        "color": "#d6ae6b",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101432-NQSedsCDQ6dP.png"
+      },
+      "episodes": 1,
+      "siteUrl": "https://anilist.co/anime/101432"
+    },
+    "startedAt": {
+      "year": 2024,
+      "month": 3,
+      "day": 11,
+      "date": "2024-03-11T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2024,
+      "month": 3,
+      "day": 11,
+      "date": "2024-03-11T00:00:00.000Z"
+    },
+    "score": 8.2
+  },
+  {
+    "id": 394026938,
+    "status": "COMPLETED",
+    "progress": 1,
+    "media": {
+      "title": {
+        "english": "Violet Evergarden: the Movie",
+        "userPreferred": "Violet Evergarden Movie"
+      },
+      "coverImage": {
+        "color": "#1a86d6",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103047-odblDHHEdehK.jpg"
+      },
+      "episodes": 1,
+      "siteUrl": "https://anilist.co/anime/103047"
+    },
+    "startedAt": {
+      "year": 2024,
+      "month": 3,
+      "day": 12,
+      "date": "2024-03-12T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2024,
+      "month": 3,
+      "day": 12,
+      "date": "2024-03-12T00:00:00.000Z"
+    },
+    "score": 8.7
+  },
+  {
+    "id": 312106728,
+    "status": "COMPLETED",
+    "progress": 13,
+    "media": {
+      "title": {
+        "english": "A Place Further Than the Universe",
+        "userPreferred": "Sora yori mo Tooi Basho"
+      },
+      "coverImage": {
+        "color": "#ffbb35",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99426-5jWTUs719lQN.png"
+      },
+      "episodes": 13,
+      "siteUrl": "https://anilist.co/anime/99426"
+    },
+    "startedAt": {
+      "year": 2024,
+      "month": 3,
+      "day": 12,
+      "date": "2024-03-12T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2024,
+      "month": 3,
+      "day": 19,
+      "date": "2024-03-19T00:00:00.000Z"
+    },
+    "score": 8.6
+  },
+  {
+    "id": 366538451,
+    "status": "COMPLETED",
+    "progress": 28,
+    "media": {
+      "title": {
+        "english": "Frieren: Beyond Journey’s End",
+        "userPreferred": "Sousou no Frieren"
+      },
+      "coverImage": {
+        "color": "#aee493",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154587-gHSraOSa0nBG.jpg"
+      },
+      "episodes": 28,
+      "siteUrl": "https://anilist.co/anime/154587"
+    },
+    "startedAt": {
+      "year": 2024,
+      "month": 3,
+      "day": 19,
+      "date": "2024-03-19T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2024,
+      "month": 4,
+      "day": 2,
+      "date": "2024-04-02T00:00:00.000Z"
+    },
+    "score": 10
+  }
+]
