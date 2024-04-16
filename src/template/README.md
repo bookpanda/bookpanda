@@ -1,4 +1,4 @@
-# anime-stats
+# アニメ Watch history
 
 <img src="./src/generated/calendar.svg" />
 
