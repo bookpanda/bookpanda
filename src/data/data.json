@@ -1,305 +1,5 @@
 [
   {
-    "id": 322971870,
-    "status": "COMPLETED",
-    "progress": 1,
-    "media": {
-      "title": {
-        "english": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
-        "userPreferred": "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu"
-      },
-      "coverImage": {
-        "color": "#5dbbe4",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102976-WcNjDFdQbdCv.png"
-      },
-      "episodes": 1,
-      "siteUrl": "https://anilist.co/anime/102976"
-    },
-    "startedAt": {
-      "year": 2023,
-      "month": 3,
-      "day": 18,
-      "date": "2023-03-18T00:00:00.000Z"
-    },
-    "completedAt": {
-      "year": 2023,
-      "month": 3,
-      "day": 18,
-      "date": "2023-03-18T00:00:00.000Z"
-    },
-    "score": 8.3
-  },
-  {
-    "id": 330470324,
-    "status": "COMPLETED",
-    "progress": 1,
-    "media": {
-      "title": {
-        "english": "KONOSUBA -God's blessing on this wonderful world! 2: God's Blessings on These Wonderful Works of Art!",
-        "userPreferred": "Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!"
-      },
-      "coverImage": {
-        "color": "#f1a150",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b97996-px2KGexuEZpg.jpg"
-      },
-      "episodes": 1,
-      "siteUrl": "https://anilist.co/anime/97996"
-    },
-    "startedAt": {
-      "year": 2023,
-      "month": 3,
-      "day": 19,
-      "date": "2023-03-19T00:00:00.000Z"
-    },
-    "completedAt": {
-      "year": 2023,
-      "month": 3,
-      "day": 19,
-      "date": "2023-03-19T00:00:00.000Z"
-    },
-    "score": 7.4
-  },
-  {
-    "id": 330470692,
-    "status": "COMPLETED",
-    "progress": 1,
-    "media": {
-      "title": {
-        "english": "KONOSUBA -God's blessing on this wonderful world!: God's Blessings On This Wonderful Choker!",
-        "userPreferred": "Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!"
-      },
-      "coverImage": {
-        "color": "#e4bb28",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21574-CTRsdAGe4mDp.png"
-      },
-      "episodes": 1,
-      "siteUrl": "https://anilist.co/anime/21574"
-    },
-    "startedAt": {
-      "year": 2023,
-      "month": 3,
-      "day": 19,
-      "date": "2023-03-19T00:00:00.000Z"
-    },
-    "completedAt": {
-      "year": 2023,
-      "month": 3,
-      "day": 19,
-      "date": "2023-03-19T00:00:00.000Z"
-    },
-    "score": 7.5
-  },
-  {
-    "id": 312323684,
-    "status": "COMPLETED",
-    "progress": 24,
-    "media": {
-      "title": {
-        "english": "Steins;Gate",
-        "userPreferred": "Steins;Gate"
-      },
-      "coverImage": {
-        "color": "#e4a15d",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9253-7pdcVzQSkKxT.jpg"
-      },
-      "episodes": 24,
-      "siteUrl": "https://anilist.co/anime/9253"
-    },
-    "startedAt": {
-      "year": 2023,
-      "month": 3,
-      "day": 19,
-      "date": "2023-03-19T00:00:00.000Z"
-    },
-    "completedAt": {
-      "year": 2023,
-      "month": 3,
-      "day": 27,
-      "date": "2023-03-27T00:00:00.000Z"
-    },
-    "score": 9.2
-  },
-  {
-    "id": 323197498,
-    "status": "COMPLETED",
-    "progress": 12,
-    "media": {
-      "title": {
-        "english": "The Angel Next Door Spoils Me Rotten",
-        "userPreferred": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken"
-      },
-      "coverImage": {
-        "color": "#c9f1f1",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143338-zhyDVYgEzsm5.png"
-      },
-      "episodes": 12,
-      "siteUrl": "https://anilist.co/anime/143338"
-    },
-    "startedAt": {
-      "year": 2023,
-      "month": 2,
-      "day": 25,
-      "date": "2023-02-25T00:00:00.000Z"
-    },
-    "completedAt": {
-      "year": 2023,
-      "month": 4,
-      "day": 5,
-      "date": "2023-04-05T00:00:00.000Z"
-    },
-    "score": 7.2
-  },
-  {
-    "id": 312323727,
-    "status": "COMPLETED",
-    "progress": 23,
-    "media": {
-      "title": {
-        "english": null,
-        "userPreferred": "Steins;Gate 0"
-      },
-      "coverImage": {
-        "color": "#6b431a",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21127-7ARWZkDXKiiD.jpg"
-      },
-      "episodes": 23,
-      "siteUrl": "https://anilist.co/anime/21127"
-    },
-    "startedAt": {
-      "year": 2023,
-      "month": 3,
-      "day": 28,
-      "date": "2023-03-28T00:00:00.000Z"
-    },
-    "completedAt": {
-      "year": 2023,
-      "month": 4,
-      "day": 6,
-      "date": "2023-04-06T00:00:00.000Z"
-    },
-    "score": 8.7
-  },
-  {
-    "id": 331412592,
-    "status": "COMPLETED",
-    "progress": 1,
-    "media": {
-      "title": {
-        "english": "Steins;Gate 0: Valentine's of Crystal Polymorphism -Bittersweet Intermedio-",
-        "userPreferred": "Steins;Gate 0: Kesshou Takei no Valentine - Bittersweet Day"
-      },
-      "coverImage": {
-        "color": null,
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104174-aoNLSSN6bT4L.png"
-      },
-      "episodes": 1,
-      "siteUrl": "https://anilist.co/anime/104174"
-    },
-    "startedAt": {
-      "year": 2023,
-      "month": 4,
-      "day": 6,
-      "date": "2023-04-06T00:00:00.000Z"
-    },
-    "completedAt": {
-      "year": 2023,
-      "month": 4,
-      "day": 6,
-      "date": "2023-04-06T00:00:00.000Z"
-    },
-    "score": 7.2
-  },
-  {
-    "id": 312107416,
-    "status": "COMPLETED",
-    "progress": 4,
-    "media": {
-      "title": {
-        "english": "Kaguya-sama: Love is War -The First Kiss That Never Ends-",
-        "userPreferred": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai"
-      },
-      "coverImage": {
-        "color": "#e45d78",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151384-gv0q8wOE6D58.jpg"
-      },
-      "episodes": 4,
-      "siteUrl": "https://anilist.co/anime/151384"
-    },
-    "startedAt": {
-      "year": 2023,
-      "month": 4,
-      "day": 6,
-      "date": "2023-04-06T00:00:00.000Z"
-    },
-    "completedAt": {
-      "year": 2023,
-      "month": 4,
-      "day": 7,
-      "date": "2023-04-07T00:00:00.000Z"
-    },
-    "score": 8.6
-  },
-  {
-    "id": 327657728,
-    "status": "COMPLETED",
-    "progress": 24,
-    "media": {
-      "title": {
-        "english": "Vinland Saga",
-        "userPreferred": "VINLAND SAGA"
-      },
-      "coverImage": {
-        "color": "#e45d50",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101348-msJS8z91mG0P.jpg"
-      },
-      "episodes": 24,
-      "siteUrl": "https://anilist.co/anime/101348"
-    },
-    "startedAt": {
-      "year": 2023,
-      "month": 4,
-      "day": 8,
-      "date": "2023-04-08T00:00:00.000Z"
-    },
-    "completedAt": {
-      "year": 2023,
-      "month": 4,
-      "day": 17,
-      "date": "2023-04-17T00:00:00.000Z"
-    },
-    "score": 9.4
-  },
-  {
-    "id": 334571172,
-    "status": "COMPLETED",
-    "progress": 1,
-    "media": {
-      "title": {
-        "english": "Suzume",
-        "userPreferred": "Suzume no Tojimari"
-      },
-      "coverImage": {
-        "color": "#43bbe4",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142770-dDaDIRnsv5jN.jpg"
-      },
-      "episodes": 1,
-      "siteUrl": "https://anilist.co/anime/142770"
-    },
-    "startedAt": {
-      "year": 2023,
-      "month": 4,
-      "day": 19,
-      "date": "2023-04-19T00:00:00.000Z"
-    },
-    "completedAt": {
-      "year": 2023,
-      "month": 4,
-      "day": 19,
-      "date": "2023-04-19T00:00:00.000Z"
-    },
-    "score": 8.2
-  },
-  {
     "id": 312106849,
     "status": "COMPLETED",
     "progress": 12,
@@ -319,13 +19,13 @@
       "year": 2023,
       "month": 4,
       "day": 17,
-      "date": "2023-04-17T00:00:00.000Z"
+      "date": "2023-04-16T17:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 4,
       "day": 23,
-      "date": "2023-04-23T00:00:00.000Z"
+      "date": "2023-04-22T17:00:00.000Z"
     },
     "score": 8.1
   },
@@ -349,13 +49,13 @@
       "year": 2023,
       "month": 4,
       "day": 24,
-      "date": "2023-04-24T00:00:00.000Z"
+      "date": "2023-04-23T17:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 4,
       "day": 30,
-      "date": "2023-04-30T00:00:00.000Z"
+      "date": "2023-04-29T17:00:00.000Z"
     },
     "score": 8.4
   },
@@ -379,13 +79,13 @@
       "year": 2023,
       "month": 5,
       "day": 1,
-      "date": "2023-05-01T00:00:00.000Z"
+      "date": "2023-04-30T17:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 5,
       "day": 2,
-      "date": "2023-05-02T00:00:00.000Z"
+      "date": "2023-05-01T17:00:00.000Z"
     },
     "score": 8.3
   },
@@ -409,13 +109,13 @@
       "year": 2023,
       "month": 5,
       "day": 3,
-      "date": "2023-05-03T00:00:00.000Z"
+      "date": "2023-05-02T17:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 5,
       "day": 10,
-      "date": "2023-05-10T00:00:00.000Z"
+      "date": "2023-05-09T17:00:00.000Z"
     },
     "score": 8.3
   },
@@ -439,13 +139,13 @@
       "year": 2023,
       "month": 5,
       "day": 10,
-      "date": "2023-05-10T00:00:00.000Z"
+      "date": "2023-05-09T17:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 5,
       "day": 17,
-      "date": "2023-05-17T00:00:00.000Z"
+      "date": "2023-05-16T17:00:00.000Z"
     },
     "score": 8.6
   },
@@ -469,13 +169,13 @@
       "year": 2023,
       "month": 5,
       "day": 16,
-      "date": "2023-05-16T00:00:00.000Z"
+      "date": "2023-05-15T17:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 6,
       "day": 3,
-      "date": "2023-06-03T00:00:00.000Z"
+      "date": "2023-06-02T17:00:00.000Z"
     },
     "score": 8.3
   },
@@ -499,13 +199,13 @@
       "year": 2023,
       "month": 6,
       "day": 3,
-      "date": "2023-06-03T00:00:00.000Z"
+      "date": "2023-06-02T17:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 6,
       "day": 6,
-      "date": "2023-06-06T00:00:00.000Z"
+      "date": "2023-06-05T17:00:00.000Z"
     },
     "score": 8.4
   },
@@ -529,13 +229,13 @@
       "year": 2023,
       "month": 6,
       "day": 7,
-      "date": "2023-06-07T00:00:00.000Z"
+      "date": "2023-06-06T17:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 6,
       "day": 14,
-      "date": "2023-06-14T00:00:00.000Z"
+      "date": "2023-06-13T17:00:00.000Z"
     },
     "score": 8.6
   },
@@ -559,13 +259,13 @@
       "year": 2023,
       "month": 6,
       "day": 16,
-      "date": "2023-06-16T00:00:00.000Z"
+      "date": "2023-06-15T17:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 6,
       "day": 22,
-      "date": "2023-06-22T00:00:00.000Z"
+      "date": "2023-06-21T17:00:00.000Z"
     },
     "score": 8.3
   },
@@ -589,13 +289,13 @@
       "year": 2023,
       "month": 6,
       "day": 21,
-      "date": "2023-06-21T00:00:00.000Z"
+      "date": "2023-06-20T17:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 7,
       "day": 11,
-      "date": "2023-07-11T00:00:00.000Z"
+      "date": "2023-07-10T17:00:00.000Z"
     },
     "score": 8.9
   },
@@ -619,13 +319,13 @@
       "year": 2023,
       "month": 7,
       "day": 12,
-      "date": "2023-07-12T00:00:00.000Z"
+      "date": "2023-07-11T17:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 7,
       "day": 23,
-      "date": "2023-07-23T00:00:00.000Z"
+      "date": "2023-07-22T17:00:00.000Z"
     },
     "score": 8.7
   },
@@ -649,13 +349,13 @@
       "year": 2023,
       "month": 7,
       "day": 24,
-      "date": "2023-07-24T00:00:00.000Z"
+      "date": "2023-07-23T17:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 8,
       "day": 4,
-      "date": "2023-08-04T00:00:00.000Z"
+      "date": "2023-08-03T17:00:00.000Z"
     },
     "score": 7.7
   },
@@ -679,13 +379,13 @@
       "year": 2023,
       "month": 8,
       "day": 6,
-      "date": "2023-08-06T00:00:00.000Z"
+      "date": "2023-08-05T17:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 9,
       "day": 13,
-      "date": "2023-09-13T00:00:00.000Z"
+      "date": "2023-09-12T17:00:00.000Z"
     },
     "score": 8.7
   },
@@ -709,13 +409,13 @@
       "year": 2023,
       "month": 9,
       "day": 12,
-      "date": "2023-09-12T00:00:00.000Z"
+      "date": "2023-09-11T17:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 9,
       "day": 20,
-      "date": "2023-09-20T00:00:00.000Z"
+      "date": "2023-09-19T17:00:00.000Z"
     },
     "score": 8.6
   },
@@ -739,13 +439,13 @@
       "year": 2023,
       "month": 9,
       "day": 21,
-      "date": "2023-09-21T00:00:00.000Z"
+      "date": "2023-09-20T17:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 9,
       "day": 27,
-      "date": "2023-09-27T00:00:00.000Z"
+      "date": "2023-09-26T17:00:00.000Z"
     },
     "score": 8.8
   },
@@ -769,13 +469,13 @@
       "year": 2023,
       "month": 9,
       "day": 27,
-      "date": "2023-09-27T00:00:00.000Z"
+      "date": "2023-09-26T17:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 10,
       "day": 7,
-      "date": "2023-10-07T00:00:00.000Z"
+      "date": "2023-10-06T17:00:00.000Z"
     },
     "score": 8.4
   },
@@ -799,13 +499,13 @@
       "year": 2023,
       "month": 10,
       "day": 7,
-      "date": "2023-10-07T00:00:00.000Z"
+      "date": "2023-10-06T17:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 10,
       "day": 18,
-      "date": "2023-10-18T00:00:00.000Z"
+      "date": "2023-10-17T17:00:00.000Z"
     },
     "score": 8
   },
@@ -829,13 +529,13 @@
       "year": 2023,
       "month": 10,
       "day": 19,
-      "date": "2023-10-19T00:00:00.000Z"
+      "date": "2023-10-18T17:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 10,
       "day": 23,
-      "date": "2023-10-23T00:00:00.000Z"
+      "date": "2023-10-22T17:00:00.000Z"
     },
     "score": 8.5
   },
@@ -859,13 +559,13 @@
       "year": 2023,
       "month": 11,
       "day": 5,
-      "date": "2023-11-05T00:00:00.000Z"
+      "date": "2023-11-04T17:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 11,
       "day": 5,
-      "date": "2023-11-05T00:00:00.000Z"
+      "date": "2023-11-04T17:00:00.000Z"
     },
     "score": 9.1
   },
@@ -889,13 +589,13 @@
       "year": 2023,
       "month": 10,
       "day": 24,
-      "date": "2023-10-24T00:00:00.000Z"
+      "date": "2023-10-23T17:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 11,
       "day": 10,
-      "date": "2023-11-10T00:00:00.000Z"
+      "date": "2023-11-09T17:00:00.000Z"
     },
     "score": 8.1
   },
@@ -919,13 +619,13 @@
       "year": 2023,
       "month": 11,
       "day": 11,
-      "date": "2023-11-11T00:00:00.000Z"
+      "date": "2023-11-10T17:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 11,
       "day": 23,
-      "date": "2023-11-23T00:00:00.000Z"
+      "date": "2023-11-22T17:00:00.000Z"
     },
     "score": 8.1
   },
@@ -949,13 +649,13 @@
       "year": 2023,
       "month": 11,
       "day": 23,
-      "date": "2023-11-23T00:00:00.000Z"
+      "date": "2023-11-22T17:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 12,
       "day": 5,
-      "date": "2023-12-05T00:00:00.000Z"
+      "date": "2023-12-04T17:00:00.000Z"
     },
     "score": 7.5
   },
@@ -979,13 +679,13 @@
       "year": 2023,
       "month": 12,
       "day": 6,
-      "date": "2023-12-06T00:00:00.000Z"
+      "date": "2023-12-05T17:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 12,
       "day": 17,
-      "date": "2023-12-17T00:00:00.000Z"
+      "date": "2023-12-16T17:00:00.000Z"
     },
     "score": 7.8
   },
@@ -1009,13 +709,13 @@
       "year": 2023,
       "month": 12,
       "day": 28,
-      "date": "2023-12-28T00:00:00.000Z"
+      "date": "2023-12-27T17:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 12,
       "day": 28,
-      "date": "2023-12-28T00:00:00.000Z"
+      "date": "2023-12-27T17:00:00.000Z"
     },
     "score": 8.5
   },
@@ -1039,13 +739,13 @@
       "year": 2023,
       "month": 12,
       "day": 18,
-      "date": "2023-12-18T00:00:00.000Z"
+      "date": "2023-12-17T17:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 12,
       "day": 29,
-      "date": "2023-12-29T00:00:00.000Z"
+      "date": "2023-12-28T17:00:00.000Z"
     },
     "score": 9.1
   },
@@ -1069,13 +769,13 @@
       "year": 2023,
       "month": 12,
       "day": 28,
-      "date": "2023-12-28T00:00:00.000Z"
+      "date": "2023-12-27T17:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 1,
       "day": 8,
-      "date": "2024-01-08T00:00:00.000Z"
+      "date": "2024-01-07T17:00:00.000Z"
     },
     "score": 8.3
   },
@@ -1099,13 +799,13 @@
       "year": 2024,
       "month": 1,
       "day": 10,
-      "date": "2024-01-10T00:00:00.000Z"
+      "date": "2024-01-09T17:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 1,
       "day": 20,
-      "date": "2024-01-20T00:00:00.000Z"
+      "date": "2024-01-19T17:00:00.000Z"
     },
     "score": 8.2
   },
@@ -1129,13 +829,13 @@
       "year": 2024,
       "month": 1,
       "day": 25,
-      "date": "2024-01-25T00:00:00.000Z"
+      "date": "2024-01-24T17:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 2,
       "day": 5,
-      "date": "2024-02-05T00:00:00.000Z"
+      "date": "2024-02-04T17:00:00.000Z"
     },
     "score": 9.4
   },
@@ -1159,13 +859,13 @@
       "year": 2024,
       "month": 2,
       "day": 7,
-      "date": "2024-02-07T00:00:00.000Z"
+      "date": "2024-02-06T17:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 2,
       "day": 7,
-      "date": "2024-02-07T00:00:00.000Z"
+      "date": "2024-02-06T17:00:00.000Z"
     },
     "score": 9
   },
@@ -1189,13 +889,13 @@
       "year": 2024,
       "month": 2,
       "day": 8,
-      "date": "2024-02-08T00:00:00.000Z"
+      "date": "2024-02-07T17:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 2,
       "day": 16,
-      "date": "2024-02-16T00:00:00.000Z"
+      "date": "2024-02-15T17:00:00.000Z"
     },
     "score": 9.2
   },
@@ -1219,13 +919,13 @@
       "year": 2024,
       "month": 2,
       "day": 17,
-      "date": "2024-02-17T00:00:00.000Z"
+      "date": "2024-02-16T17:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 2,
       "day": 21,
-      "date": "2024-02-21T00:00:00.000Z"
+      "date": "2024-02-20T17:00:00.000Z"
     },
     "score": 9.2
   },
@@ -1249,13 +949,13 @@
       "year": 2024,
       "month": 2,
       "day": 20,
-      "date": "2024-02-20T00:00:00.000Z"
+      "date": "2024-02-19T17:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 2,
       "day": 27,
-      "date": "2024-02-27T00:00:00.000Z"
+      "date": "2024-02-26T17:00:00.000Z"
     },
     "score": 6.8
   },
@@ -1279,13 +979,13 @@
       "year": 2024,
       "month": 3,
       "day": 1,
-      "date": "2024-03-01T00:00:00.000Z"
+      "date": "2024-02-29T17:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 3,
       "day": 3,
-      "date": "2024-03-03T00:00:00.000Z"
+      "date": "2024-03-02T17:00:00.000Z"
     },
     "score": 8.4
   },
@@ -1309,13 +1009,13 @@
       "year": 2024,
       "month": 3,
       "day": 4,
-      "date": "2024-03-04T00:00:00.000Z"
+      "date": "2024-03-03T17:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 3,
       "day": 9,
-      "date": "2024-03-09T00:00:00.000Z"
+      "date": "2024-03-08T17:00:00.000Z"
     },
     "score": 8.8
   },
@@ -1339,13 +1039,13 @@
       "year": 2024,
       "month": 3,
       "day": 10,
-      "date": "2024-03-10T00:00:00.000Z"
+      "date": "2024-03-09T17:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 3,
       "day": 10,
-      "date": "2024-03-10T00:00:00.000Z"
+      "date": "2024-03-09T17:00:00.000Z"
     },
     "score": 8.3
   },
@@ -1369,13 +1069,13 @@
       "year": 2024,
       "month": 3,
       "day": 11,
-      "date": "2024-03-11T00:00:00.000Z"
+      "date": "2024-03-10T17:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 3,
       "day": 11,
-      "date": "2024-03-11T00:00:00.000Z"
+      "date": "2024-03-10T17:00:00.000Z"
     },
     "score": 8.2
   },
@@ -1399,13 +1099,13 @@
       "year": 2024,
       "month": 3,
       "day": 12,
-      "date": "2024-03-12T00:00:00.000Z"
+      "date": "2024-03-11T17:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 3,
       "day": 12,
-      "date": "2024-03-12T00:00:00.000Z"
+      "date": "2024-03-11T17:00:00.000Z"
     },
     "score": 8.7
   },
@@ -1429,13 +1129,13 @@
       "year": 2024,
       "month": 3,
       "day": 12,
-      "date": "2024-03-12T00:00:00.000Z"
+      "date": "2024-03-11T17:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 3,
       "day": 19,
-      "date": "2024-03-19T00:00:00.000Z"
+      "date": "2024-03-18T17:00:00.000Z"
     },
     "score": 8.6
   },
@@ -1459,14 +1159,104 @@
       "year": 2024,
       "month": 3,
       "day": 19,
-      "date": "2024-03-19T00:00:00.000Z"
+      "date": "2024-03-18T17:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 4,
       "day": 2,
-      "date": "2024-04-02T00:00:00.000Z"
+      "date": "2024-04-01T17:00:00.000Z"
     },
     "score": 10
+  },
+  {
+    "id": 358637843,
+    "status": "COMPLETED",
+    "progress": 13,
+    "media": {
+      "title": {
+        "english": "Classroom of the Elite Season 3",
+        "userPreferred": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season"
+      },
+      "coverImage": {
+        "color": "#bbd6f1",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146066-zzKl6P6OeEjy.jpg"
+      },
+      "episodes": 13,
+      "siteUrl": "https://anilist.co/anime/146066"
+    },
+    "startedAt": {
+      "year": 2024,
+      "month": 4,
+      "day": 18,
+      "date": "2024-04-17T17:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2024,
+      "month": 4,
+      "day": 23,
+      "date": "2024-04-22T17:00:00.000Z"
+    },
+    "score": 8.3
+  },
+  {
+    "id": 404212683,
+    "status": "COMPLETED",
+    "progress": 26,
+    "media": {
+      "title": {
+        "english": "Azumanga Daioh",
+        "userPreferred": "Azumanga Daiou THE ANIMATION"
+      },
+      "coverImage": {
+        "color": null,
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx66-1LTNhVTnttZv.png"
+      },
+      "episodes": 26,
+      "siteUrl": "https://anilist.co/anime/66"
+    },
+    "startedAt": {
+      "year": 2024,
+      "month": 4,
+      "day": 30,
+      "date": "2024-04-29T17:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2024,
+      "month": 5,
+      "day": 10,
+      "date": "2024-05-09T17:00:00.000Z"
+    },
+    "score": 8
+  },
+  {
+    "id": 387976388,
+    "status": "COMPLETED",
+    "progress": 24,
+    "media": {
+      "title": {
+        "english": "The Apothecary Diaries",
+        "userPreferred": "Kusuriya no Hitorigoto"
+      },
+      "coverImage": {
+        "color": "#f1865d",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx161645-bX5S28Cc1Nnk.jpg"
+      },
+      "episodes": 24,
+      "siteUrl": "https://anilist.co/anime/161645"
+    },
+    "startedAt": {
+      "year": 2024,
+      "month": 4,
+      "day": 24,
+      "date": "2024-04-23T17:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2024,
+      "month": 5,
+      "day": 18,
+      "date": "2024-05-17T17:00:00.000Z"
+    },
+    "score": 9
   }
 ]
