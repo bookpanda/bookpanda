@@ -4,4 +4,12 @@
 
 <h2>Last 10 Animes</h2>
 
-{{ lastAnimes }}
+{{ last10Animes }}
+
+<details>
+
+  <summary>Last 100 Animes</summary>
+
+  {{ last100Animes }}
+
+</details>
