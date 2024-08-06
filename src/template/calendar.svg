@@ -43,6 +43,7 @@ svg {
     width: 27px;
 }
 .time-legend {
+    white-space: nowrap;
     position: absolute;
     top: -13px;
     z-index: 10;
@@ -78,11 +79,11 @@ svg {
         <div class="col">
             <div class="time-box weekday" />
             <div class="time-box weekday" />
-            <div class="time-box weekday"><p class="time-legend">Mon</p></div>
+            <div class="time-box weekday"><p class="time-legend">月</p></div>
             <div class="time-box weekday" />
-            <div class="time-box weekday"><p class="time-legend">Wed</p></div>
+            <div class="time-box weekday"><p class="time-legend">水</p></div>
             <div class="time-box weekday" />
-            <div class="time-box weekday"><p class="time-legend">Fri</p></div>
+            <div class="time-box weekday"><p class="time-legend">金</p></div>
             <div class="time-box weekday" />
         </div>
         {{ calendar }}

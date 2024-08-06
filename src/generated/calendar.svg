@@ -43,6 +43,7 @@ svg {
     width: 27px;
 }
 .time-legend {
+    white-space: nowrap;
     position: absolute;
     top: -13px;
     z-index: 10;
@@ -78,15 +79,15 @@ svg {
         <div class="col">
             <div class="time-box weekday" />
             <div class="time-box weekday" />
-            <div class="time-box weekday"><p class="time-legend">Mon</p></div>
+            <div class="time-box weekday"><p class="time-legend">月</p></div>
             <div class="time-box weekday" />
-            <div class="time-box weekday"><p class="time-legend">Wed</p></div>
+            <div class="time-box weekday"><p class="time-legend">水</p></div>
             <div class="time-box weekday" />
-            <div class="time-box weekday"><p class="time-legend">Fri</p></div>
+            <div class="time-box weekday"><p class="time-legend">金</p></div>
             <div class="time-box weekday" />
         </div>
         <div class="col">
-	<div class="time-box"><p class="time-legend">Aug</p></div>
+	<div class="time-box"><p class="time-legend">8月</p></div>
 	<div class="box invisible" />
 	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5);"/>
 	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5);"/>
@@ -126,7 +127,7 @@ svg {
 	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5);"/>
 </div>
 <div class="col">
-	<div class="time-box"><p class="time-legend">Sep</p></div>
+	<div class="time-box"><p class="time-legend">9月</p></div>
 	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5);"/>
 	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5);"/>
 	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5);"/>
@@ -166,7 +167,7 @@ svg {
 	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
 </div>
 <div class="col">
-	<div class="time-box"><p class="time-legend">Oct</p></div>
+	<div class="time-box"><p class="time-legend">10月</p></div>
 	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
 	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
 	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
@@ -216,7 +217,7 @@ svg {
 	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1);"/>
 </div>
 <div class="col">
-	<div class="time-box"><p class="time-legend">Nov</p></div>
+	<div class="time-box"><p class="time-legend">11月</p></div>
 	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001);"/>
 	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1);"/>
 	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1);"/>
@@ -256,7 +257,7 @@ svg {
 	<div class="box" style="background-color:rgb(201, 233, 110); border:1px solid rgb(180.9, 209.70000000000002, 99);"/>
 </div>
 <div class="col">
-	<div class="time-box"><p class="time-legend">Dec</p></div>
+	<div class="time-box"><p class="time-legend">12月</p></div>
 	<div class="box" style="background-color:rgb(201, 233, 110); border:1px solid rgb(180.9, 209.70000000000002, 99);"/>
 	<div class="box" style="background-color:rgb(201, 233, 110); border:1px solid rgb(180.9, 209.70000000000002, 99);"/>
 	<div class="box" style="background-color:rgb(201, 233, 110); border:1px solid rgb(180.9, 209.70000000000002, 99);"/>
@@ -306,7 +307,7 @@ svg {
 	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
 </div>
 <div class="col">
-	<div class="time-box"><p class="time-legend">Jan</p></div>
+	<div class="time-box"><p class="time-legend">1月</p></div>
 	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
 	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
 	<div class="box empty" />
@@ -346,7 +347,7 @@ svg {
 	<div class="box" style="background-color:rgb(42, 140, 69); border:1px solid rgb(37.800000000000004, 126, 62.1);"/>
 </div>
 <div class="col">
-	<div class="time-box"><p class="time-legend">Feb</p></div>
+	<div class="time-box"><p class="time-legend">2月</p></div>
 	<div class="box" style="background-color:rgb(42, 140, 69); border:1px solid rgb(37.800000000000004, 126, 62.1);"/>
 	<div class="box" style="background-color:rgb(42, 140, 69); border:1px solid rgb(37.800000000000004, 126, 62.1);"/>
 	<div class="box empty" />
@@ -386,7 +387,7 @@ svg {
 	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
 </div>
 <div class="col">
-	<div class="time-box"><p class="time-legend">Mar</p></div>
+	<div class="time-box"><p class="time-legend">3月</p></div>
 	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
 	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5);"/>
 	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5);"/>
@@ -436,7 +437,7 @@ svg {
 	<div class="box empty" />
 </div>
 <div class="col">
-	<div class="time-box"><p class="time-legend">Apr</p></div>
+	<div class="time-box"><p class="time-legend">4月</p></div>
 	<div class="box empty" />
 	<div class="box empty" />
 	<div class="box empty" />
@@ -476,7 +477,7 @@ svg {
 	<div class="box" style="background-color:rgb(102, 197, 123); border:1px solid rgb(91.8, 177.3, 110.7);"/>
 </div>
 <div class="col">
-	<div class="time-box"><p class="time-legend">May</p></div>
+	<div class="time-box"><p class="time-legend">5月</p></div>
 	<div class="box" style="background-color:rgb(102, 197, 123); border:1px solid rgb(91.8, 177.3, 110.7);"/>
 	<div class="box" style="background-color:rgb(102, 197, 123); border:1px solid rgb(91.8, 177.3, 110.7);"/>
 	<div class="box" style="background-color:rgb(102, 197, 123); border:1px solid rgb(91.8, 177.3, 110.7);"/>
@@ -516,7 +517,7 @@ svg {
 	<div class="box" style="background-color:rgb(247, 204, 93); border:1px solid rgb(222.3, 183.6, 83.7);"/>
 </div>
 <div class="col">
-	<div class="time-box"><p class="time-legend">Jun</p></div>
+	<div class="time-box"><p class="time-legend">6月</p></div>
 	<div class="box" style="background-color:rgb(247, 204, 93); border:1px solid rgb(222.3, 183.6, 83.7);"/>
 	<div class="box" style="background-color:rgb(247, 204, 93); border:1px solid rgb(222.3, 183.6, 83.7);"/>
 	<div class="box" style="background-color:rgb(247, 234, 53); border:1px solid rgb(222.3, 210.6, 47.7);"/>
@@ -566,7 +567,7 @@ svg {
 	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
 </div>
 <div class="col">
-	<div class="time-box"><p class="time-legend">Jul</p></div>
+	<div class="time-box"><p class="time-legend">7月</p></div>
 	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
 	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
 	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>

@@ -83,5 +83,6 @@ const isSameDay = (a: Date, b: Date) => {
 };
 
 const monthAbbr = (date: Date) => {
-  return date.toLocaleString("default", { month: "short" });
+  const monthNum = date.getMonth() + 1;
+  return monthNum + "月";
 };
