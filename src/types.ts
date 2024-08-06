@@ -5,6 +5,7 @@ interface Entry {
   media: {
     title: {
       english: string;
+      native: string;
       userPreferred: string;
     };
     coverImage: {

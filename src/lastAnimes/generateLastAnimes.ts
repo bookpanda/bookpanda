@@ -56,8 +56,8 @@ const genImage = (entry: Entry) => {
 
 const genInfo = (entry: Entry) => {
   try {
-    const title = entry.media.title.english ?? entry.media.title.userPreferred;
-    return `<a href="${entry.media.siteUrl}" target="_blank"><b>${truncateString(title, 50)}</b></a> <br/> ${slashDateFormat(entry.startedAt.date)} - ${slashDateFormat(entry.completedAt.date)} (${daysAgo(entry.completedAt.date)} days ago) <br/> <h3>${entry.score}/10</h3>`;
+    const title = entry.media.title.native ?? entry.media.title.userPreferred;
+    return `<a href="${entry.media.siteUrl}" target="_blank"><b>${truncateString(title, 50)}</b></a> <br/> ${slashDateFormat(entry.startedAt.date)} - ${slashDateFormat(entry.completedAt.date)} (${daysAgo(entry.completedAt.date)} 日前) <br/> <h3>${entry.score}/10</h3>`;
   } catch (e) {
     console.error("Error generating info:", e);
     return "";

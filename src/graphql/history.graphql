@@ -19,6 +19,7 @@ query GetAnimeHistory(
         media {
           title {
             english
+            native
             userPreferred
           }
           coverImage {
