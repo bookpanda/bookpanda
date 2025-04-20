@@ -140,6 +140,7 @@ See more in my [resume](https://drive.google.com/file/d/1XgbYMgG7tpFdXE8JW8BoRq9
   </summary>
   <ul>
     <li>Daily cron job generating watch history graph based on score and duration</li>
+    <li>Literally what you see at the bottom of this README.md</li>
     <li>API from Anilist.co</li>
     <li>Tech: TypeScript, Github Actions</li>
     <li> <a href="https://github.com/bookpanda/anime-stats" target="_blank">GitHub Repo</a>
