@@ -47,7 +47,7 @@ See more in my [resume](https://drive.google.com/file/d/1XgbYMgG7tpFdXE8JW8BoRq9
     <li>Features: selling/buying books, chat, transaction/delivery management, admin backoffice</li>
     <li>Implemented scrum practices, code reviews, e2e testing</li>
     <li>Tech: TypeScript, React (Next.js), Prisma, PostgreSQL, Abby WS, Docker</li>
-    <li> <a href="https://github.com/isd-sgcu/rpkm67-backend" target="_blank">GitHub Repo</a> |
+    <li> <a href="https://github.com/seg-org/bookbook" target="_blank">GitHub Repo</a> |
         <a href="https://bookbook.bookpanda.dev" target="_blank">Deployment</a> 
     </li>
   </ul>
@@ -61,8 +61,8 @@ See more in my [resume](https://drive.google.com/file/d/1XgbYMgG7tpFdXE8JW8BoRq9
     <li>Chat application implemented the system design way</li>
     <li>Features: Google login, real-time chat, group chats, reactions, unread messages, read status</li>
     <li>Tech: Go, PostgreSQL, WebSockets, TypeScript, React (Next.js), Docker</li>
-    <li> <a href="https://github.com/isd-sgcu/rpkm67-backend" target="_blank">GitHub Repo</a> |
-        <a href="https://bookbook.bookpanda.dev" target="_blank">Deployment</a> 
+    <li> <a href="https://github.com/bookpanda/messenger-clone" target="_blank">GitHub Repo</a> |
+        <a href="https://messenger.bookpanda.dev" target="_blank">Deployment</a> 
     </li>
   </ul>
 </details>
@@ -142,7 +142,7 @@ See more in my [resume](https://drive.google.com/file/d/1XgbYMgG7tpFdXE8JW8BoRq9
     <li>Daily cron job generating watch history graph based on score and duration</li>
     <li>API from Anilist.co</li>
     <li>Tech: TypeScript, Github Actions</li>
-    <li> <a href="https://github.com/bookpanda/2110524-wordpress-vpc" target="_blank">GitHub Repo</a>
+    <li> <a href="https://github.com/bookpanda/anime-stats" target="_blank">GitHub Repo</a>
     </li>
   </ul>
 </details>
