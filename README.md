@@ -89,7 +89,7 @@ See more in my [resume](https://drive.google.com/file/d/1XgbYMgG7tpFdXE8JW8BoRq9
   <ul>
     <li>Implemented fundamental Git internals: cat-file, hash-object, ls-tree, write-tree, commit-tree</li>
     <li>Tech: C++, CMake, Linux, SHA1</li>
-    <li> <a href="https://github.com/bookpanda/byo-git" target="_blank">GitHub Repo</a>
+    <li> <a href="https://github.com/bookpanda/git-from-scratch" target="_blank">GitHub Repo</a>
     </li>
   </ul>
 </details>
