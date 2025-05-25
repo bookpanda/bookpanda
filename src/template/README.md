@@ -15,7 +15,7 @@ See more in my [resume](https://drive.google.com/file/d/1XgbYMgG7tpFdXE8JW8BoRq9
 
 - Languages: JavaScript/TypeScript, Go, Python C++, C#, Java, Terraform
 - Fullstack: React, Next.js, Nest.js, .NET, PostgreSQL, Redis, JWT, gRPC
-- AWS ([Certified Cloud Practitioner](https://www.credly.com/badges/3cc5547a-7c07-46a7-817f-7cd346df3c7e/public_url)): EC2, S3, Lambda, DynamoDB, VPC, SNS
+- AWS: EC2, S3, Lambda, DynamoDB, VPC, SNS
 - DevOps: Docker, Terraform, CI/CD, GitOps
 - Currently trying to implement technologies from scratch
 - When I have time: Rust, Kubernetes, distributed systems
@@ -80,7 +80,7 @@ See more in my [resume](https://drive.google.com/file/d/1XgbYMgG7tpFdXE8JW8BoRq9
   </ul>
 </details>
 
-### Personal projects
+### Low-Level Projects
 
 <details>
   <summary style="cursor: pointer; font-weight: bold;">
@@ -93,6 +93,22 @@ See more in my [resume](https://drive.google.com/file/d/1XgbYMgG7tpFdXE8JW8BoRq9
     </li>
   </ul>
 </details>
+
+<details>
+  <summary style="cursor: pointer; font-weight: bold;">
+    🛜 Buiding HTTP server from scratch
+  </summary>
+  <ul>
+    <li>TCP open/close connection with persistent connection header</li>
+    <li>gzip compression for response body</li>
+    <li>Concurrent request handling with worker threads</li>
+    <li>Tech: C++, CMake, gzip</li>
+    <li> <a href="https://github.com/bookpanda/webserver-from-scratch" target="_blank">GitHub Repo</a>
+    </li>
+  </ul>
+</details>
+
+### Side Projects
 
 <details>
   <summary style="cursor: pointer; font-weight: bold;">
@@ -173,6 +189,18 @@ See more in my [resume](https://drive.google.com/file/d/1XgbYMgG7tpFdXE8JW8BoRq9
 - [Object Oriented Programming](https://github.com/bookpanda/2110215-PROG-METH-I)
 - [Embedded Lab](https://github.com/bookpanda/2110366-EMBEDDED-SYS-LAB)
 - [Hardware Synthesis Lab](https://github.com/bookpanda/2110363-HW-SYN-LAB-I)
+
+## 📜 Certifications
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+<a href="https://www.credly.com/badges/e83a6bcb-89fa-46d0-ae77-2f9a596cca6f/public_url" target="_blank">
+  <image src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" 
+  alt="AWS Certified Solutions Architect – Associate" style="width: 120px; height: auto;"/>
+</a>
+<a href="https://www.credly.com/badges/a9931a40-ce76-4d7b-9e96-5627126fafc6/public_url" target="_blank">
+  <image src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" 
+  alt="AWS Certified Cloud Practitioner" style="width: 120px; height: auto;"/>
+</a>
+</div>
 
 # アニメ 視聴履歴
 
