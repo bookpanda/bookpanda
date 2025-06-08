@@ -108,6 +108,32 @@ See more in my [resume](https://drive.google.com/file/d/1XgbYMgG7tpFdXE8JW8BoRq9
   </ul>
 </details>
 
+### System Design Implementations
+
+<details>
+  <summary style="cursor: pointer; font-weight: bold;">
+    ⛓️‍💥 URL shortener
+  </summary>
+  <ul>
+    <li>base62 encoding, caching reads, unique id counter</li>
+    <li>Tech: Java, Spring, PostgreSQL, Redis</li>
+    <li> <a href="https://github.com/bookpanda/design-bitly" target="_blank">GitHub Repo</a>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary style="cursor: pointer; font-weight: bold;">
+    📦 Dropbox
+  </summary>
+  <ul>
+    <li>presigned URLs for direct client-S3 uploads, S3 notifications, shares table</li>
+    <li>Tech: Java, Spring, S3, DynamoDB</li>
+    <li> <a href="https://github.com/bookpanda/design-dropbox" target="_blank">GitHub Repo</a>
+    </li>
+  </ul>
+</details>
+
 ### Side Projects
 
 <details>
