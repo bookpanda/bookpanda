@@ -834,7 +834,7 @@
       "day": 27,
       "date": "2022-11-27T00:00:00.000Z"
     },
-    "score": 7.9
+    "score": 8.3
   },
   {
     "id": 312106266,
@@ -1857,7 +1857,7 @@
       "day": 17,
       "date": "2023-05-17T00:00:00.000Z"
     },
-    "score": 8.6
+    "score": 8.8
   },
   {
     "id": 324619049,
@@ -4090,5 +4090,98 @@
       "date": "2025-05-23T00:00:00.000Z"
     },
     "score": 8.1
+  },
+  {
+    "id": 444501602,
+    "status": "COMPLETED",
+    "progress": 11,
+    "media": {
+      "title": {
+        "english": "Nisemonogatari",
+        "native": "偽物語",
+        "userPreferred": "Nisemonogatari"
+      },
+      "coverImage": {
+        "color": "#f1d65d",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11597-x2vd4KSHcI1S.jpg"
+      },
+      "episodes": 11,
+      "siteUrl": "https://anilist.co/anime/11597"
+    },
+    "startedAt": {
+      "year": 2025,
+      "month": 6,
+      "day": 8,
+      "date": "2025-06-08T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2025,
+      "month": 6,
+      "day": 14,
+      "date": "2025-06-14T00:00:00.000Z"
+    },
+    "score": 7.9
+  },
+  {
+    "id": 458025924,
+    "status": "COMPLETED",
+    "progress": 12,
+    "media": {
+      "title": {
+        "english": "Puella Magi Madoka Magica",
+        "native": "魔法少女まどか☆マギカ",
+        "userPreferred": "Mahou Shoujo Madoka☆Magica"
+      },
+      "coverImage": {
+        "color": "#f1c95d",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9756-QnUGwlwwnsuN.jpg"
+      },
+      "episodes": 12,
+      "siteUrl": "https://anilist.co/anime/9756"
+    },
+    "startedAt": {
+      "year": 2025,
+      "month": 6,
+      "day": 14,
+      "date": "2025-06-14T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2025,
+      "month": 6,
+      "day": 22,
+      "date": "2025-06-22T00:00:00.000Z"
+    },
+    "score": 8.7
+  },
+  {
+    "id": 487202565,
+    "status": "COMPLETED",
+    "progress": 1,
+    "media": {
+      "title": {
+        "english": "Puella Magi Madoka Magica the Movie Part III: Rebellion",
+        "native": "劇場版 魔法少女まどか☆マギカ 叛逆の物語",
+        "userPreferred": "Mahou Shoujo Madoka☆Magica: Hangyaku no Monogatari"
+      },
+      "coverImage": {
+        "color": null,
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b11981-koz1IoISs3eU.jpg"
+      },
+      "episodes": 1,
+      "siteUrl": "https://anilist.co/anime/11981"
+    },
+    "startedAt": {
+      "year": 2025,
+      "month": 6,
+      "day": 22,
+      "date": "2025-06-22T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2025,
+      "month": 6,
+      "day": 23,
+      "date": "2025-06-23T00:00:00.000Z"
+    },
+    "score": 8.4
   }
 ]
