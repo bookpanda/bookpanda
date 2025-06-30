@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋 I'm Idhibhat (Margin) </h1>
 
 I'm a fullstack/backend dev with a love for building tools and solving tough problems.  
-Currently a Computer Engineering undergrad graduating in 2026 — looking for new grad SDE roles
+Currently a Computer Engineering undergrad graduating in 2026 — looking for internships and opportunities to learn and grow. 
 
 ## 🌱 A little about me
 
