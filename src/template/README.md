@@ -5,7 +5,7 @@ Currently a Computer Engineering undergrad graduating in 2026 — looking for in
 
 ## 🌱 A little about me
 
-- 🎓 Computer Engineering Student @ [Chulalongkorn University](https://www.chula.ac.th/en/)
+- 🎓 Computer Engineering @ [Chulalongkorn University](https://www.chula.ac.th/en/)
 - 💼 Software Engineer Intern @ [Agoda](https://www.agoda.com/)
 - 📖 Self-learning distributed systems (raft, K8s, fault tolerance, distributed storage/computation)
 - 🇯🇵 日本語を自習しています（JLPT N2）
