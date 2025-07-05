@@ -1,24 +1,28 @@
 <h1 align="center"> Hi 👋 I'm Idhibhat (Margin) </h1>
 
-I'm a fullstack/backend dev with a love for building tools and solving tough problems.  
-Currently a Computer Engineering undergrad graduating in 2026 — looking for internships and opportunities to learn and grow. 
+I'm a backend developer with a growing passion for **distributed systems**, infrastructure, and building tools that scale.  
+Currently a Computer Engineering undergrad graduating in 2026 — looking for internships and research opportunities in systems and software engineering.
 
 ## 🌱 A little about me
 
-- Computer Engineering Student @ [Chulalongkorn University](https://www.chula.ac.th/en/)
-- Software Engineer Intern @ [Agoda](https://www.agoda.com/)
-- 日本語を自習しています　（jlpt n２、まだまだです）
+- 🎓 Computer Engineering Student @ [Chulalongkorn University](https://www.chula.ac.th/en/)
+- 💼 Software Engineer Intern @ [Agoda](https://www.agoda.com/)
+- 📖 Self-learning distributed systems (raft, K8s, fault tolerance, distributed storage/computation)
+- 🇯🇵 日本語を自習しています（JLPT N2）
 
-See more in my [resume](https://drive.google.com/file/d/1XgbYMgG7tpFdXE8JW8BoRq99pAd-xu0B/view) or [website](https://idhibhatp.super.site)
+For work experience, see my [resume](https://drive.google.com/file/d/1XgbYMgG7tpFdXE8JW8BoRq99pAd-xu0B/view)
 
-## ⚒️ Skills and interests
+## ⚒️ Interests and Technologies
 
-- Languages: JavaScript/TypeScript, Go, Python C++, C#, Java, Terraform
-- Fullstack: React, Next.js, Nest.js, .NET, PostgreSQL, Redis, JWT, gRPC
-- AWS: EC2, S3, Lambda, DynamoDB, VPC, SNS
-- DevOps: Docker, Terraform, CI/CD, GitOps
-- Currently trying to implement technologies from scratch
-- When I have time: Rust, Kubernetes, distributed systems
+- **Core Topics**: Distributed Systems, System Design, Fault Tolerance, Scalability
+- **Programming Languages**: Go, Python, TypeScript/JavaScript, Java, C++, SQL
+- **Backend/Infra**: REST, PostgreSQL, Redis, gRPC, JWT
+- **Cloud & DevOps**: AWS (EC2, S3, Lambda, VPC), Docker, Terraform, CI/CD
+- **Libs & Frameworks**: React, Next.js, Spring, Nest.js, .NET
+- **Currently Exploring**:
+  - Writing systems components from scratch (e.g. pub/sub, consensus, RPC)
+  - Aggregate systems (e.g. distributed databases, message queues)
+  - Kubernetes + observability tooling
 
 ## 🗂️ Notable Projects
 
@@ -108,6 +112,21 @@ See more in my [resume](https://drive.google.com/file/d/1XgbYMgG7tpFdXE8JW8BoRq9
   </ul>
 </details>
 
+<details>
+  <summary style="cursor: pointer; font-weight: bold;">
+    💾 Buiding SQLite from scratch
+  </summary>
+  <ul>
+    <li>Reading DB pages bytes-by-bytes (big endian format)</li>
+    <li>Structure: pages, cells, records, Varints encoding</li>
+    <li>Reading data and index B-Trees, both interior and leaf pages</li>
+    <li>RegEx to parse SQL queries: SELECT, FROM, WHERE</li>
+    <li>Tech: C++, CMake, gzip</li>
+    <li> <a href="https://github.com/bookpanda/sqlite-from-scratch" target="_blank">GitHub Repo</a>
+    </li>
+  </ul>
+</details>
+
 ### System Design Implementations
 
 <details>
@@ -134,7 +153,7 @@ See more in my [resume](https://drive.google.com/file/d/1XgbYMgG7tpFdXE8JW8BoRq9
   </ul>
 </details>
 
-### Side Projects
+### Other Side Projects
 
 <details>
   <summary style="cursor: pointer; font-weight: bold;">
