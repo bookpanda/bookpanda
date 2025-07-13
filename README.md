@@ -84,6 +84,33 @@ For work experience, see my [resume](https://drive.google.com/file/d/1XgbYMgG7tp
   </ul>
 </details>
 
+### Distributed Systems
+
+<details>
+  <summary style="cursor: pointer; font-weight: bold;">
+    🪵 Raft consensus algorithm + distributed key-value store
+  </summary>
+  <ul>
+    <li>Raft: elections, heartbeats, log replication, and fault tolerance</li>
+    <li>KV: persistence and exactly-once delivery</li>
+    <li>Tech: Go</li>
+    <li> <a href="https://github.com/bookpanda/raft" target="_blank">GitHub Repo</a>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary style="cursor: pointer; font-weight: bold;">
+    🎈 Fly.io Distributed Systems Challenge
+  </summary>
+  <ul>
+    <li>Snowflake ID, broadcast, grow-only counter, Kafka-style log, totally-available transactions</li>
+    <li>Tech: Go</li>
+    <li> <a href="https://github.com/bookpanda/fly-io-dist-sys" target="_blank">GitHub Repo</a>
+    </li>
+  </ul>
+</details>
+
 ### Low-Level Projects
 
 <details>
@@ -166,18 +193,6 @@ For work experience, see my [resume](https://drive.google.com/file/d/1XgbYMgG7tp
     <li>Read more in the repo...</li>
     <li>Tech: Go, C#, .NET, TypeScript, React, PostgreSQL, Redis</li>
     <li> <a href="https://github.com/bookpanda/sso-cas" target="_blank">GitHub Repo</a>
-    </li>
-  </ul>
-</details>
-
-<details>
-  <summary style="cursor: pointer; font-weight: bold;">
-    🎈 Fly.io Distributed Systems Challenge
-  </summary>
-  <ul>
-    <li>My solution to fly.io Distributed Systems Challenge</li>
-    <li>Tech: Go</li>
-    <li> <a href="https://github.com/bookpanda/fly-io-dist-sys" target="_blank">GitHub Repo</a>
     </li>
   </ul>
 </details>
