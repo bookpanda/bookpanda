@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋 I'm Idhibhat (Margin) </h1>
 
-I'm a backend developer with a growing passion for **distributed systems**, infrastructure, and building tools that scale.  
+I'm a software engineer with a growing passion for **distributed systems**, infrastructure, and building tools that scale.  
 Currently a Computer Engineering undergrad graduating in 2026 — looking for internships and research opportunities in systems and software engineering.
 
 ## 🌱 A little about me
