@@ -250,6 +250,11 @@ For work experience, see my [resume](https://drive.google.com/file/d/1XgbYMgG7tp
 - [Embedded Lab](https://github.com/bookpanda/2110366-EMBEDDED-SYS-LAB)
 - [Hardware Synthesis Lab](https://github.com/bookpanda/2110363-HW-SYN-LAB-I)
 
+## 📄 Publications
+### JSCCE 2023 (The 20th International Joint Conference on Computer Science and Software Engineering) (2023)
+- Published [Two-stage Thai Misspelling Correction based on Pre-trained Language Models](https://ieeexplore.ieee.org/document/10202006)
+- Won the Best Presentation Award at the conference
+
 ## 📜 Certifications
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
 <a href="https://www.credly.com/badges/e83a6bcb-89fa-46d0-ae77-2f9a596cca6f/public_url" target="_blank">
