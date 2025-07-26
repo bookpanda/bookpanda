@@ -251,7 +251,7 @@ For work experience, see my [resume](https://drive.google.com/file/d/1XgbYMgG7tp
 - [Hardware Synthesis Lab](https://github.com/bookpanda/2110363-HW-SYN-LAB-I)
 
 ## 📄 Publications
-### JSCCE 2023 (The 20th International Joint Conference on Computer Science and Software Engineering) (2023)
+### JCSSE 2023 (The 20th International Joint Conference on Computer Science and Software Engineering) (2023)
 - Published [Two-stage Thai Misspelling Correction based on Pre-trained Language Models](https://ieeexplore.ieee.org/document/10202006)
 - Won the Best Presentation Award at the conference
 
