@@ -51,8 +51,7 @@ For work experience, see my [resume](https://drive.google.com/file/d/1XgbYMgG7tp
     <li>Features: selling/buying books, chat, transaction/delivery management, admin backoffice</li>
     <li>Implemented scrum practices, code reviews, e2e testing</li>
     <li>Tech: TypeScript, React (Next.js), Prisma, PostgreSQL, Abby WS, Docker</li>
-    <li> <a href="https://github.com/seg-org/bookbook" target="_blank">GitHub Repo</a> |
-        <a href="https://bookbook.bookpanda.dev" target="_blank">Deployment</a> 
+    <li> <a href="https://github.com/seg-org/bookbook" target="_blank">GitHub Repo</a>
     </li>
   </ul>
 </details>
@@ -251,11 +250,14 @@ For work experience, see my [resume](https://drive.google.com/file/d/1XgbYMgG7tp
 - [Hardware Synthesis Lab](https://github.com/bookpanda/2110363-HW-SYN-LAB-I)
 
 ## 📄 Publications
+
 ### JCSSE 2023 (The 20th International Joint Conference on Computer Science and Software Engineering) (2023)
+
 - Published [Two-stage Thai Misspelling Correction based on Pre-trained Language Models](https://ieeexplore.ieee.org/document/10202006)
 - Won the Best Presentation Award at the conference
 
 ## 📜 Certifications
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
 <a href="https://www.credly.com/badges/e83a6bcb-89fa-46d0-ae77-2f9a596cca6f/public_url" target="_blank">
   <image src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" 
@@ -285,7 +287,7 @@ For work experience, see my [resume](https://drive.google.com/file/d/1XgbYMgG7tp
 
   <summary>最後の１００アニメ</summary>
 
-  |                                                                                                                      Cover                                                                                                                      | Anime                                                                                                                                                                            |                                                                                                                  Cover                                                                                                                  | Anime                                                                                                                                                                     |
+|                                                                                                                      Cover                                                                                                                      | Anime                                                                                                                                                                            |                                                                                                                  Cover                                                                                                                  | Anime                                                                                                                                                                     |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |                        <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b11981-koz1IoISs3eU.jpg" alt="Puella Magi Madoka Magica the Movie Part III: Rebellion" style="width:70px;height:auto" />                        | <a href="https://anilist.co/anime/11981" target="_blank"><b>劇場版 魔法少女まどか☆マギカ 叛逆の物語</b></a> <br/> 22/6/2025 - 23/6/2025 (91 日前) <br/> <h3>8.4/10</h3>                              |                                   <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9756-QnUGwlwwnsuN.jpg" alt="Puella Magi Madoka Magica" style="width:70px;height:auto" />                                   | <a href="https://anilist.co/anime/9756" target="_blank"><b>魔法少女まどか☆マギカ</b></a> <br/> 14/6/2025 - 22/6/2025 (92 日前) <br/> <h3>8.5/10</h3>                                  |
 |                                            <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11597-x2vd4KSHcI1S.jpg" alt="Nisemonogatari" style="width:70px;height:auto" />                                            | <a href="https://anilist.co/anime/11597" target="_blank"><b>偽物語</b></a> <br/> 8/6/2025 - 14/6/2025 (100 日前) <br/> <h3>7.9/10</h3>                                                |                                        <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177709-e5Qx6RlsBgD5.png" alt="SAKAMOTO DAYS" style="width:70px;height:auto" />                                        | <a href="https://anilist.co/anime/177709" target="_blank"><b>SAKAMOTO DAYS</b></a> <br/> 19/5/2025 - 23/5/2025 (122 日前) <br/> <h3>8.1/10</h3>                             |
