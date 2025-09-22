@@ -51,8 +51,7 @@ For work experience, see my [resume](https://drive.google.com/file/d/1XgbYMgG7tp
     <li>Features: selling/buying books, chat, transaction/delivery management, admin backoffice</li>
     <li>Implemented scrum practices, code reviews, e2e testing</li>
     <li>Tech: TypeScript, React (Next.js), Prisma, PostgreSQL, Abby WS, Docker</li>
-    <li> <a href="https://github.com/seg-org/bookbook" target="_blank">GitHub Repo</a> |
-        <a href="https://bookbook.bookpanda.dev" target="_blank">Deployment</a> 
+    <li> <a href="https://github.com/seg-org/bookbook" target="_blank">GitHub Repo</a>
     </li>
   </ul>
 </details>
@@ -251,11 +250,14 @@ For work experience, see my [resume](https://drive.google.com/file/d/1XgbYMgG7tp
 - [Hardware Synthesis Lab](https://github.com/bookpanda/2110363-HW-SYN-LAB-I)
 
 ## 📄 Publications
+
 ### JCSSE 2023 (The 20th International Joint Conference on Computer Science and Software Engineering) (2023)
+
 - Published [Two-stage Thai Misspelling Correction based on Pre-trained Language Models](https://ieeexplore.ieee.org/document/10202006)
 - Won the Best Presentation Award at the conference
 
 ## 📜 Certifications
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
 <a href="https://www.credly.com/badges/e83a6bcb-89fa-46d0-ae77-2f9a596cca6f/public_url" target="_blank">
   <image src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" 
@@ -279,6 +281,6 @@ For work experience, see my [resume](https://drive.google.com/file/d/1XgbYMgG7tp
 
   <summary>最後の１００アニメ</summary>
 
-  {{ last100Animes }}
+{{ last100Animes }}
 
 </details>
