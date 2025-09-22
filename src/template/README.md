@@ -1,20 +1,20 @@
 <h1 align="center"> Hi 👋 I'm Idhibhat (Margin) </h1>
 
-I'm a software engineer with a growing passion for **distributed systems**, infrastructure, and building tools that scale.  
+I'm a software engineer with a growing passion for **systems research**, infrastructure, and building tools that scale.  
 Currently a Computer Engineering undergrad graduating in 2026 — looking for internships and research opportunities in systems and software engineering.
 
 ## 🌱 A little about me
 
 - 🎓 Computer Engineering @ [Chulalongkorn University](https://www.chula.ac.th/en/)
 - 💼 Software Engineer Intern @ [Agoda](https://www.agoda.com/)
-- 📖 Self-learning distributed systems (raft, K8s, fault tolerance, distributed storage/computation)
-- 🇯🇵 日本語を自習しています（JLPT N2）
+- 🔬 Doing research on userspace networking stacks for microVMs
+- 🗣️ 🇹🇭 🇬🇧 🇯🇵, learning 🇩🇪 
 
 For work experience, see my [resume](https://drive.google.com/file/d/1XgbYMgG7tpFdXE8JW8BoRq99pAd-xu0B/view)
 
 ## ⚒️ Interests and Technologies
 
-- **Core Topics**: Distributed Systems, System Design, Fault Tolerance, Scalability
+- **Core Topics**: Cloud Networking, Virtual Machines, System Design, Fault Tolerance, Scalability
 - **Programming Languages**: Go, Python, TypeScript/JavaScript, Java, C++, SQL
 - **Backend/Infra**: REST, PostgreSQL, Redis, gRPC, JWT
 - **Cloud & DevOps**: AWS (EC2, S3, Lambda, VPC), Docker, Terraform, CI/CD
