@@ -77,9 +77,7 @@ For work experience, see my [resume](https://drive.google.com/file/d/1XgbYMgG7tp
   <ul>
     <li>Streamlit app to turn any PDFs into Brainrot reels</li>
     <li>Tech: Python, FastAPI, AWS (S3, SNS, Polly, Textract), Gemini API, Terraform</li>
-    <li> <a href="https://github.com/bookpanda/pdf-2-brainrot" target="_blank">GitHub Repo</a> |
-        <a href="https://pdf2brainrot.streamlit.app" target="_blank">Deployment</a> 
-    </li>
+    <li> <a href="https://github.com/bookpanda/pdf-2-brainrot" target="_blank">GitHub Repo</a> </li>
   </ul>
 </details>
 
