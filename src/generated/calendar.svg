@@ -87,17 +87,17 @@ svg {
             <div class="time-box weekday" />
         </div>
         <div class="col">
-	<div class="time-box"><p class="time-legend">2月</p></div>
+	<div class="time-box"><p class="time-legend">3月</p></div>
 	<div class="box invisible" />
 	<div class="box invisible" />
 	<div class="box invisible" />
 	<div class="box invisible" />
 	<div class="box invisible" />
-	<div class="box empty" />
+	<div class="box invisible" />
 	<div class="box empty" />
 </div>
 <div class="col">
-	<div class="time-box"><p class="time-legend">3月</p></div>
+	<div class="time-box"></div>
 	<div class="box empty" />
 	<div class="box empty" />
 	<div class="box empty" />
@@ -577,7 +577,7 @@ svg {
 	<div class="box" style="background-color:rgb(201, 233, 110); border:1px solid rgb(180.9, 209.70000000000002, 99); opacity:0.8357142857142857;"/>
 </div>
 <div class="col">
-	<div class="time-box"></div>
+	<div class="time-box"><p class="time-legend">2月</p></div>
 	<div class="box" style="background-color:rgb(201, 233, 110); border:1px solid rgb(180.9, 209.70000000000002, 99); opacity:0.8357142857142857;"/>
 	<div class="box" style="background-color:rgb(201, 233, 110); border:1px solid rgb(180.9, 209.70000000000002, 99); opacity:0.8357142857142857;"/>
 	<div class="box" style="background-color:rgb(201, 233, 110); border:1px solid rgb(180.9, 209.70000000000002, 99); opacity:0.8357142857142857;"/>
@@ -609,12 +609,16 @@ svg {
 <div class="col">
 	<div class="time-box"></div>
 	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:0.225;"/>
-	<div class="box empty" />
-	<div class="box empty" />
-	<div class="box empty" />
-	<div class="box empty" />
-	<div class="box empty" />
-	<div class="box empty" />
+	<div class="box" style="background-color:rgb(155, 233, 168); border:1px solid rgb(139.5, 209.70000000000002, 151.20000000000002); opacity:0.8357142857142857;"/>
+	<div class="box" style="background-color:rgb(155, 233, 168); border:1px solid rgb(139.5, 209.70000000000002, 151.20000000000002); opacity:0.8357142857142857;"/>
+	<div class="box" style="background-color:rgb(155, 233, 168); border:1px solid rgb(139.5, 209.70000000000002, 151.20000000000002); opacity:0.8357142857142857;"/>
+	<div class="box" style="background-color:rgb(155, 233, 168); border:1px solid rgb(139.5, 209.70000000000002, 151.20000000000002); opacity:0.8357142857142857;"/>
+	<div class="box" style="background-color:rgb(155, 233, 168); border:1px solid rgb(139.5, 209.70000000000002, 151.20000000000002); opacity:0.8357142857142857;"/>
+	<div class="box" style="background-color:rgb(155, 233, 168); border:1px solid rgb(139.5, 209.70000000000002, 151.20000000000002); opacity:0.8357142857142857;"/>
+</div>
+<div class="col">
+	<div class="time-box"></div>
+	<div class="box" style="background-color:rgb(155, 233, 168); border:1px solid rgb(139.5, 209.70000000000002, 151.20000000000002); opacity:0.8357142857142857;"/>
 </div>
 
     </div>
