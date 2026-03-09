@@ -267,7 +267,7 @@ For work experience, see my [resume](https://drive.google.com/file/d/1XgbYMgG7tp
 </a>
 </div>
 
-# アニメ 視聴履歴
+<!-- # アニメ 視聴履歴
 
 <img src="./src/generated/calendar.svg" />
 
@@ -333,4 +333,4 @@ For work experience, see my [resume](https://drive.google.com/file/d/1XgbYMgG7tp
 |          <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127720-ADJgIrUVMdU9.jpg" alt="Mushoku Tensei: Jobless Reincarnation Cour 2" style="width:70px;height:auto" />         | <a href="https://anilist.co/anime/127720" target="_blank"><b>無職転生 ～異世界行ったら本気だす～ 第2クール</b></a> <br/> 21/9/2023 - 27/9/2023 (894 日前) <br/> <h3>8.8/10</h3>                  |                        <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108465-1ANspF1EWyFx.jpg" alt="Mushoku Tensei: Jobless Reincarnation" style="width:70px;height:auto" />                        | <a href="https://anilist.co/anime/108465" target="_blank"><b>無職転生 ～異世界行ったら本気だす～</b></a> <br/> 12/9/2023 - 20/9/2023 (901 日前) <br/> <h3>8.5/10</h3>                               |
 |                         <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113415-LHBAeoZDIsnF.jpg" alt="JUJUTSU KAISEN" style="width:70px;height:auto" />                        | <a href="https://anilist.co/anime/113415" target="_blank"><b>呪術廻戦</b></a> <br/> 6/8/2023 - 13/9/2023 (908 日前) <br/> <h3>8.7/10</h3>                                       |                   <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150075-QIGcA7oVyO6l.jpg" alt="KONOSUBA -An Explosion on This Wonderful World!" style="width:70px;height:auto" />                   | <a href="https://anilist.co/anime/150075" target="_blank"><b>この素晴らしい世界に爆焔を！</b></a> <br/> 24/7/2023 - 4/8/2023 (948 日前) <br/> <h3>7.7/10</h3>                                    |
 
-</details>
+</details> -->
