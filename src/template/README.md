@@ -267,7 +267,7 @@ For work experience, see my [resume](https://drive.google.com/file/d/1XgbYMgG7tp
 </a>
 </div>
 
-# アニメ 視聴履歴
+<!-- # アニメ 視聴履歴
 
 <img src="./src/generated/calendar.svg" />
 
@@ -281,4 +281,4 @@ For work experience, see my [resume](https://drive.google.com/file/d/1XgbYMgG7tp
 
 {{ last100Animes }}
 
-</details>
+</details> -->
