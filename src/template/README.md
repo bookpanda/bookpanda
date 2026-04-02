@@ -1,14 +1,14 @@
 <h1 align="center"> Hi 👋 I'm Idhibhat (Margin) </h1>
 
 I'm a software engineer with a growing passion for **systems research**, infrastructure, and building tools that scale.  
-Currently a Computer Engineering undergrad graduating in 2026 — looking for internships and research opportunities in systems and software engineering.
+Incoming MSCS student at EPFL in 2026 — looking for internships and research opportunities in systems and software engineering.
 
 ## 🌱 A little about me
 
 - 🎓 Computer Engineering @ [Chulalongkorn University](https://www.chula.ac.th/en/)
 - 💼 Software Engineer Intern @ [Agoda](https://www.agoda.com/)
 - 🔬 Doing research on userspace networking stacks for microVMs
-- 🗣️ 🇹🇭 🇬🇧 🇯🇵, learning 🇩🇪 
+- 🗣️ 🇹🇭 🇬🇧 🇯🇵, learning 🇫🇷 
 
 For work experience, see my [resume](https://drive.google.com/file/d/1XgbYMgG7tpFdXE8JW8BoRq99pAd-xu0B/view)
 
