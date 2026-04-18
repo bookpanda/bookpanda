@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋 I'm Idhibhat (Margin) </h1>
+<h1 align="center"> Hi 👋 I'm Idhibhat (Zach) </h1>
 
 I'm a software engineer with a growing passion for **systems research**, infrastructure, and building tools that scale.  
 Incoming MSCS student at EPFL in 2026 — looking for internships and research opportunities in systems and software engineering.
