@@ -64,8 +64,8 @@ For work experience, see my [resume](https://drive.google.com/file/d/1XgbYMgG7tp
     <li>Chat application implemented the system design way</li>
     <li>Features: Google login, real-time chat, group chats, reactions, unread messages, read status</li>
     <li>Tech: Go, PostgreSQL, WebSockets, TypeScript, React (Next.js), Docker</li>
-    <li> <a href="https://github.com/bookpanda/messenger-clone" target="_blank">GitHub Repo</a> |
-        <a href="https://messenger.bookpanda.dev" target="_blank">Deployment</a> 
+    <li> <a href="https://github.com/bookpanda/messenger-clone" target="_blank">GitHub Repo</a> 
+    <!-- | <a href="https://messenger.bookpanda.dev" target="_blank">Deployment</a>  -->
     </li>
   </ul>
 </details>
