@@ -1,28 +1,22 @@
 <h1 align="center"> Hi 👋 I'm Idhibhat (Markus) </h1>
 
 I'm a software engineer with a growing passion for **systems research**, infrastructure, and building tools that scale.  
-Incoming MSCS student at EPFL in 2026 — looking for internships and research opportunities in systems and software engineering.
+Looking for internships and research opportunities in memory disaggregation in datacenters.
 
 ## 🌱 A little about me
 
-- 🎓 Computer Engineering @ [Chulalongkorn University](https://www.chula.ac.th/en/)
+- 🎓 MSc Computer Science @ [EPFL](https://www.epfl.ch/schools/ic/)
 - 💼 Software Engineer Intern @ [Agoda](https://www.agoda.com/)
-- 🔬 Doing research on userspace networking stacks for microVMs
-- 🗣️ 🇹🇭 🇬🇧 🇯🇵, learning 🇫🇷 
+- 🔬 Doing research on HW-SW co-design and runtimes for memory disaggregation
+- 🗣️ 🇬🇧 🇯🇵 🇹🇭, learning 🇫🇷 
 
 For work experience, see my [resume](https://drive.google.com/file/d/1XgbYMgG7tpFdXE8JW8BoRq99pAd-xu0B/view)
 
 ## ⚒️ Interests and Technologies
 
-- **Core Topics**: Cloud Networking, Virtual Machines, System Design, Fault Tolerance, Scalability
-- **Programming Languages**: Go, Python, TypeScript/JavaScript, Java, C++, SQL
-- **Backend/Infra**: REST, PostgreSQL, Redis, gRPC, JWT
-- **Cloud & DevOps**: AWS (EC2, S3, Lambda, VPC), Docker, Terraform, CI/CD
-- **Libs & Frameworks**: React, Next.js, Spring, Nest.js, .NET
-- **Currently Exploring**:
-  - Writing systems components from scratch (e.g. pub/sub, consensus, RPC)
-  - Aggregate systems (e.g. distributed databases, message queues)
-  - Kubernetes + observability tooling
+- **Core Topics**: cache coherence, memory consistency, memory disaggregation
+- **Programming Languages**: C++, C, Python, Go, TypeScript/JavaScript, Java, SQL
+- **Systems**: QEMU, CXL, bpftrace, CloudLab
 
 ## 🗂️ Notable Projects
 
