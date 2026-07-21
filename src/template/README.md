@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋 I'm Idhibhat (Markus) </h1>
+<h1 align="center"> Hi 👋 I'm Idhibhat </h1>
 
 I'm a software engineer with a growing passion for **systems research**, infrastructure, and building tools that scale.  
 Looking for internships and research opportunities in memory disaggregation in datacenters.
